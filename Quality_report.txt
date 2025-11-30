@@ -1,0 +1,1166 @@
+RELATÓRIO DE QUALIDADE
+================================================================================
+
+Score médio: 90.5/100
+
+Páginas processadas: 231
+Páginas com erro: 0
+
+DETALHES POR PÁGINA:
+--------------------------------------------------------------------------------
+
+Página 1:
+  Status: completed
+  Score: 96.0
+  Erros: Texto corrigido adiciona conteúdo além do OCR fornecido ('p. 122. Church and c...'), o que pode indicar suposição externa, Tradução corta abruptamente em 'demago...', mantendo incompletude do original, mas poderia completar se contexto disponível, Pequena inconsistência em pontuação de aspas em alguns itens
+
+Página 2:
+  Status: completed
+  Score: 96.0
+  Erros: Correção de OCR excelente, mas 'aatarchy' para 'anarchy' é precisa; 'Coloured' traduzido literalmente como 'Colorida', podendo perder nuance racial em contexto spengleriano.
+
+Página 3:
+  Status: completed
+  Score: 92.0
+  Erros: Texto incompleto em inglês corrigido e tradução, mas tradução tenta completar logicamente., Inconsistência leve de tempos verbais: 'escrevi' e 'dirigiu-se' (passado simples) em vez de present perfect ('tenho escrito' e 'tem sido dirigido')., Quebras de linha no texto corrigido e tradução ligeiramente alteradas da original OCR.
+
+Página 4:
+  Status: completed
+  Score: 98.0
+  Erros: Quebra de linha em 'happi-ness' mantida no texto corrigido, mas irrelevante para tradução., Texto incompleto no final ('th...' / 'v...'), preservado fielmente.
+
+Página 5:
+  Status: completed
+  Score: 90.0
+  Erros: Adição de frase extra no final ('Os “sonhadores” alemães se levantaram com uma nat...') não presente no texto corrigido, afetando fidelidade., 'Por completo' para 'through and through' é aceitável, mas menos idiomático que 'de cabo a rabo' ou 'puramente prussiano'., 'Insurreição' para 'uprising' é forte; contexto histórico de 1914 sugere 'levante' ou 'mobilização patriótica'.
+
+Página 6:
+  Status: completed
+  Score: 93.0
+  Erros: Erro de concordância no final: 'ele' não concorda com 'entusiastas' (plural); deveria ser 'eles', Frase inicial 'apenas emergindo, mal apreendidas e não resolvidas' ligeiramente awkward em relação ao original fluido
+
+Página 7:
+  Status: completed
+  Score: 94.0
+  Erros: 'book:' mantido como 'livro:', soando ligeiramente abrupto sem preposição, Pequena variação em aspas (originais mistas, tradução usa “ ” consistentemente)
+
+Página 8:
+  Status: completed
+  Score: 92.0
+  Erros: Erro gramatical grave: 'o maior coragem' deve ser 'a maior coragem' (concordância de gênero)., Frase inicial 'e nações com as suas próprias' soa incompleta sem contexto anterior, mas fiel ao texto fornecido., Final cortado abruptamente: 'à fren...' (provavelmente 'à frente')., 'Conferência' para 'lecture' é aceitável, mas 'palestra' poderia ser mais preciso em contexto acadêmico.
+
+Página 9:
+  Status: completed
+  Score: 94.0
+  Erros: Texto cortado no final, igual ao original corrigido., 'Ocorrência' é precisa, mas 'acontecimento' ou 'evento' poderia soar mais natural em contexto filosófico-político., 'World policy' traduzido como 'política mundial'; 'política mundial' é aceitável, mas 'política internacional' poderia ser alternativa contextual.
+
+Página 10:
+  Status: completed
+  Score: 97.0
+  Erros: Adição de 'das nações brancas' no final, que não está explicitamente no texto corrigido fornecido ('ruling classes of t...'), podendo alterar ligeiramente a precisão.
+
+Página 11:
+  Status: completed
+  Score: 91.0
+  Erros: Assunção de 'middle-class E...' como 'inglês de classe média', provavelmente correto mas não explícito no texto fornecido, 'judgments' traduzido como 'opiniões'; 'julgamentos' poderia ser mais preciso em contexto filosófico, Adição de 'para não fal...' no final, que parece extrapolação além do texto cortado, OCR corrigido bem, mas final incompleto mantido sem indicação clara
+
+Página 12:
+  Status: completed
+  Score: 84.0
+  Erros: Inversão na pergunta retórica: 'existem não dezenas' é gramaticalmente estranho e impreciso; original 'are there not dozens' é afirmativo-retórico., Erro no final da frase: 'como no décimo...' adiciona conteúdo não presente no original corrigido ('as ...'), alterando o sentido., Inconsistência numérica: 'séculos dezoito e dezenove' vs. 'vigésimo' e 'décimo'; melhor padronizar para 'século XVIII, XIX e XX'., 'entrelaçado ativa ou passivamente' falta artigo ou ajuste para fluidez: 'entrelaçado, ativa ou passivamente'.
+
+Página 13:
+  Status: completed
+  Score: 86.0
+  Erros: Início da frase impreciso e incompleto: 'Escalda a Novgorod, caíram' não captura adequadamente o provável 'from the Scheldt to Novgorod' do original, soando gramaticalmente estranho., Alteração sutil na estrutura da frase sobre 'idealismo alemão': 'to describe which condition' vira 'condição para a qual', perdendo exatidão relativa., Texto cortado no final como no original, mas sem indicação clara de elipse., 'o alemão' em minúscula é aceitável, mas pode ser capitalizado em contextos filosóficos para ênfase.
+
+Página 14:
+  Status: completed
+  Score: 93.0
+  Erros: Tradução incompleta no final ('superi...' em vez de 'superiores')., Corte abrupto no final afeta a completude da frase., Pequena inconsistência na preservação exata do plural 'civilizations' com o corte.
+
+Página 15:
+  Status: completed
+  Score: 94.0
+  Erros: Adição de 'raça, a v...' na tradução, não explicitamente no texto corrigido fornecido (embora plausível pela continuação), 'desfile através das eras' para 'march through the ages' é interpretativo; 'marcha' seria mais literal
+
+Página 16:
+  Status: completed
+  Score: 94.0
+  Erros: Texto truncado no final, similar ao OCR, mas sem completude plena., Uso de 'Dá-se-lhe' ligeiramente arcaico, embora correto.
+
+Página 17:
+  Status: completed
+  Score: 92.0
+  Erros: Texto OCR corrigido ainda incompleto ('century t...'), mas tradução estende além do fornecido, podendo afetar precisão, Frase inicial 'dissects and he reassembles' mantida como fragmento sem sujeito explícito, o que pode confundir, Título traduzido em minúsculas após número, alterando ligeiramente a formatação original em maiúsculas
+
+Página 18:
+  Status: completed
+  Score: 93.0
+  Erros: Texto corrigido inclui 'They a...' no final, não presente no OCR e não traduzido., Tradução incompleta no final ('que se d...' em vez de completar 'self-detesting')., Título 'THE HOUR OF DECISION' mantido no corrigido mas ausente na tradução., Quebras de linha preservadas, mas formatação poderia ser mais exata.
+
+Página 19:
+  Status: completed
+  Score: 93.0
+  Erros: Texto corrigido removeu artefatos de OCR como '123 , ■' e quebras de linha com sucesso, mas final permanece incompleto., 'de menos' é idiomático mas ligeiramente coloquial para contexto acadêmico., Final da tradução ('seque...') reflete corte do original, mas parece abrupto.
+
+Página 20:
+  Status: completed
+  Score: 96.0
+  Erros: Ordem adjetival 'racionalista produto' ligeiramente awkward em PT; original 'rationalistic issue' sugere 'produto racionalista'., Texto incompleto ('b...' / 'Comunis...') preservado, mas sem nota sobre truncamento.
+
+Página 21:
+  Status: completed
+  Score: 93.0
+  Erros: Correção OCR infere 'of true ...' além do OCR cortado ('o...'), o que é razoável mas não explícito., Final da tradução ('pensamento h...') parece suposição incompleta não alinhada perfeitamente com 'true ...' do corrigido., 'Fisiognômica' é aceitável, mas em contextos filosóficos (ex. Nietzsche) pode variar para 'fisionômica' ou explicitação.
+
+Página 22:
+  Status: completed
+  Score: 95.0
+  Erros: Texto cortado no final ('liable t...' / 'prope...'), consistente com o original fornecido., Nome da guerra 'Franco-German War' traduzido como 'Guerra Franco-Alemã', mas historicamente mais preciso como 'Guerra Franco-Prussiana'., Construção impersonais 'se procura em vão' ligeiramente formal, mas aceitável.
+
+Página 23:
+  Status: completed
+  Score: 82.0
+  Erros: Texto corrigido mantém ou adiciona fragmento estranho 'doing, and for...' no final, não presente no OCR original., Tradução inicia abruptamente com 'alma,', sem contexto, refletindo fragmento do original., 'formam parte' é incorreto em português brasileiro; deve ser 'fazem parte'., 'homens brancos' omite maiúscula de 'White', que pode ter conotação específica., Final 'do fazer...' é tradução literal e confusa de erro no texto corrigido., Algumas quebras de linha na tradução não preservam perfeitamente a estrutura do corrigido.
+
+Página 24:
+  Status: completed
+  Score: 96.0
+  Erros: Texto original cortado em 'first f...', mas tradução adiciona 'clarão e estrondo', o que pode ser interpretação além do fornecido., Ordem de adjetivos invertida em 'grandes catástrofes incalculáveis' (original: 'incalculable great').
+
+Página 25:
+  Status: completed
+  Score: 96.0
+  Erros: Termo 'form-rigour' (provavelmente 'Formstrenge' em Spengler) traduzido como 'rigidez formal', que é aceitável mas poderia ser mais preciso como 'rigor formal' ou 'severidade da forma'., 'Literature-ridden age' como 'era carregada de literatura' é fluente mas perde um pouco o tom pejorativo; 'era literatizada' ou 'saturada de literatura' seria ideal., 'Race-instinct' como 'instinto de raça' é fiel, mas termo carregado historicamente., Final cortado de forma similar, mas tradução omite 'bookish ideals' explicitamente do corrigido.
+
+Página 26:
+  Status: completed
+  Score: 93.0
+  Erros: 'no topo' para 'uppermost' é coloquial e menos preciso em contexto filosófico, 'entrar em algo' é literal mas vago sem contexto anterior, final cortado no original e na tradução, mas assumido corretamente
+
+Página 27:
+  Status: completed
+  Score: 93.0
+  Erros: Correção de OCR boa, mas 'In war.' pode ter sido 'In war.' com contexto implícito de continuação anterior não mostrado., 'Que objeção já levantaram eles' preserva ênfase retórica mas soa ligeiramente arcaico em PT-BR moderno., Texto truncado no final mantido fielmente, mas sem indicação de elipse.
+
+Página 28:
+  Status: completed
+  Score: 94.0
+  Erros: Erro de digitação grave no título: 'PODERS MUNDIAIS' em vez de 'PODERES MUNDIAIS', Texto cortado no final ('poderia te...'), mas fiel ao original incompleto
+
+Página 29:
+  Status: completed
+  Score: 85.0
+  Erros: Imprecisão na primeira frase: 'muito mais estreita' tem gênero incorreto (estadista é masculino) e adiciona 'mais' não presente; contexto implícito de 'margem de ação' ou 'escolha' não bem capturado., 'working up towards it' traduzido como 'se acumulando em direção a ele' é aproximado, mas perde nuance de progressão/construção., Adição de conteúdo no final ('do mundo de Estados do século XVIII') não presente no texto original fornecido, que está cortado em 'transition from t...'., 'fechamento' para 'close' é aceitável, mas 'desfecho' ou 'fim' poderia ser mais preciso em contexto filosófico.
+
+Página 30:
+  Status: completed
+  Score: 90.0
+  Erros: Correção de OCR parcial: 'Pete...' corrigido para 'Peter t...', mas ainda incompleto (provavelmente 'Peter the Great')., Tradução completa o nome para 'Pedro, o Grande,' assumindo contexto não presente no texto fornecido., 'Distinction of form' traduzido como 'distinção de forma', que é aceitável mas poderia ser mais preciso como 'distinção formal'., 'Relações interestatais diplomáticas e bélicas' soa ligeiramente redundante; 'interestatais' é correto, mas estrutura poderia fluir melhor.
+
+Página 31:
+  Status: completed
+  Score: 91.0
+  Erros: Frase inicial incompleta ('should belong to.') preservada sem contextualização adicional., Intensificador 'enormemente' adicionado a 'grew very rich', ligeira liberdade interpretativa., Texto cortado abruptamente em 'comparaç...', refletindo o original incompleto., Adição no texto corrigido ('has never quite...') não totalmente refletida na tradução.
+
+Página 32:
+  Status: completed
+  Score: 86.0
+  Erros: Texto incompleto no final, igual ao original corrigido., "Realizadas reuniões de congressos" soa redundante e pouco natural; melhor "realizados congressos"., Uso inconsistente de tempos verbais (imperfeito como "eclodia", "armavam-se") em narrativa histórica; preferir pretérito perfeito simples para fidelidade., "Que não poderia suportar tal coisa" adiciona "tal coisa", vagando ligeiramente do original "which it could not have borne".
+
+Página 33:
+  Status: completed
+  Score: 97.0
+  Erros: 'though at a cost' traduzido como 'embora a um custo', ligeiramente menos idiomático em PT; 'power-problems' como 'problemas de potência' é aceitável, mas poderia ser mais preciso como 'problemas das grandes potências' em contexto spengleriano.
+
+Página 34:
+  Status: completed
+  Score: 95.0
+  Erros: Adição de texto no final ('mimados e a...') não presente no OCR fornecido, o que afeta a fidelidade exata., Possível ambiguidade em 'cifras eleitorais radicais', que poderia ser interpretado como 'números eleitorais dos radicais'., Quebras de linha do original não preservadas exatamente na tradução.
+
+Página 35:
+  Status: completed
+  Score: 98.0
+  Erros: Texto truncado no final, preservando o original., Transliteração 'Chi-li' mantida, mas grafia histórica pode variar para 'Chihli'.
+
+Página 36:
+  Status: completed
+  Score: 93.0
+  Erros: Tempo verbal ligeiramente impreciso: 'confessou' em vez de 'tem confessado' para refletir o present perfect., Quebras de linha no texto corrigido preservam algumas irregularidades do OCR, mas não afetam muito., Texto cortado ('re...') mantido como no original, sem completude.
+
+Página 37:
+  Status: completed
+  Score: 92.0
+  Erros: 'uncreative' traduzido como 'incréativa', termo não padrão em português; comum é 'incriativa' ou 'não criativa'., Frase longa do segundo parágrafo é fiel mas ligeiramente densa em PT., Texto cortado abruptamente como no original ('Es...' para 'Estados').
+
+Página 38:
+  Status: completed
+  Score: 93.0
+  Erros: Correção OCR incompleta no final ('such e...' sugere resíduo de erro);, Pluralização 'relações' em vez de singular 'relation' no original;
+
+Página 39:
+  Status: completed
+  Score: 93.0
+  Erros: Texto incompleto no final, refletindo o original., Quebras de linha ligeiramente alteradas em alguns pontos., 'given itself up' traduzido como 'se abandonou', que é aceitável mas pode perder nuance de rendição.
+
+Página 40:
+  Status: completed
+  Score: 92.0
+  Erros: Adição de 'que pregam a ...' no final, ausente no texto corrigido original.,  'Direcionadamente' soa forçado e pouco natural; 'directionally' poderia ser melhor renderizado como 'direcionalmente' ou 'de modo direcionado'., Quebra de frase após 'infinito' sem vírgula no original, mas ok na tradução.
+
+Página 41:
+  Status: completed
+  Score: 82.0
+  Erros: Tradução inclui conteúdo não presente no texto corrigido ('dos quais a gratificação da vaidade é o menos prejudici...'), o que compromete a fidelidade., Uso de 'elas' para referir a 'persons', introduzindo gênero feminino não explícito no original., 'Something quite different is meant' traduzido como 'algo bem diferente é pretendido', que é aceitável mas poderia ser mais preciso como 'se pretende algo bem diferente'., Erros tipográficos na tradução: 'dirig ente', 'recomen- dam', 'obje- tivos', 'servi-las' (hífen desnecessário)., Hífens e quebras de linha na tradução imitam o original mas criam formatação irregular em português.
+
+Página 42:
+  Status: completed
+  Score: 88.0
+  Erros: Texto corrigido lida bem com quebras de OCR (ex.: 'mean-ing' → 'meaning'), mas 'polit...' é expandido na tradução para 'racionalismo político plebeu', o que vai além do OCR fornecido., 'where,' inicia com vírgula no original, omitida na tradução sem impacto significativo., Estrutura mantém quebras de linha aproximadas, mas formatação do título e parágrafo ligeiramente alterada., 'State supremacy' traduzido como 'supremacia estatal monárquica'; 'State' maiúsculo (conceito spengleriano) poderia ser 'Estatal' para ênfase.
+
+Página 43:
+  Status: completed
+  Score: 93.0
+  Erros: Texto OCR corrigido assumindo 'tower' no final, o que pode não ser exato no original impresso., Frase inicial 'each other in the capacity...' traduzida diretamente, mas soa incompleta sem contexto anterior., Adição de 'dela' na tradução para 'tower...', inferindo contexto não explícito., Final da tradução cortado como 'Ma...', refletindo o original incompleto.
+
+Página 44:
+  Status: completed
+  Score: 74.0
+  Erros: Frases awkward e pouco naturais, como 'que eles mesmos na maior parte têm interesses em preocupações privadas', 'Estadistas líderes' soa invertido; melhor 'principais estadistas' ou 'líderes políticos', 'Preocupações privadas' impreciso para 'private concerns' (empresas/assuntos privados), 'Orçamento do ano' omite possível 'last year’s', mas fiel ao OCR, Tradução literal demais, sacrificando fluidez
+
+Página 45:
+  Status: completed
+  Score: 85.0
+  Erros: Adição de conteúdo não presente no texto original corrigido: 'o resultado do declínio dos poderes estatais', que completa uma frase incompleta de forma inventada., 'sequelas' para 'sequelae' é inadequado no contexto histórico/político; sugere conotação médica em vez de 'consequências'., 'contadoria' para 'counting-house' é aproximado, mas menos preciso; termo evoca escritório de contabilidade mercantil., Frase final 'Esta depressão esmagadora toda' tem ordem invertida, soando menos natural em PT., 'Guerra Mundial' (singular) enquanto título é plural 'WORLD WARS'; inconsistência preservada mas notável.
+
+Página 46:
+  Status: completed
+  Score: 97.0
+  Erros: OCR corrigido de forma excelente, mas 'oversea' mantido como no original possivelmente arcaico, sem alteração para 'overseas' padrão.
+
+Página 47:
+  Status: completed
+  Score: 97.0
+  Erros: Corte final na tradução 'econ...' inconsistente com 'economics....' corrigido; deveria ser 'economia....', Alteração de '44]' para '47]' no OCR – confirmar se página correta
+
+Página 48:
+  Status: completed
+  Score: 74.0
+  Erros: Erro grave em 'untheoretical' traduzido como 'atética' (deve ser 'ateórica' ou 'não teórica'), 'mind' traduzido como 'espírito'; em contexto spengleriano, 'mente' ou 'intelecto' pode ser mais preciso, Texto cortado abruptamente, similar ao original, mas sem indicação de continuação, 'Wars' no texto corrigido pode ser impreciso se original for 'War' (singular), Falta nuance em 'quite untheoretical' e 'quite other'
+
+Página 49:
+  Status: completed
+  Score: 92.0
+  Erros: 'statesmanlike decisions' traduzido como 'decisões estatais', que soa inadequado; 'estatais' remete a 'do Estado', não a 'de estadista'., Frase final 'set this mighty ...' traduzida como 'pôr em movimento essa ...', assumindo contexto não explícito no trecho., Pequena inconsistência em 'patente militar' (OK, mas 'posto militar' ou 'graduação' poderia ser mais fluido).
+
+Página 50:
+  Status: completed
+  Score: 89.0
+  Erros: Título: 'WORLD POWERS' traduzido como 'Poderes Mundiais', mas 'Potências Mundiais' é termo mais preciso em contexto histórico, 'punha todo o ênfase' – erro de concordância de gênero; ênfase é feminino, 'e nenhuma no distrito mineiro' – elipse de 'ênfase' torna frase ambígua ou gramaticalmente incompleta, 'aumentava a prontidão para a guerra' – imperfeito ok, mas original usa 'increased' em sentido geral, Texto cortado de forma similar, mas sem indicação de continuação
+
+Página 51:
+  Status: completed
+  Score: 94.0
+  Erros: 'sea-ruling type' traduzido literalmente como 'tipo senhor dos mares', o que soa um pouco forçado e pouco idiomático., Uso de 'sucessivamente' para 'in turn' é aceitável, mas poderia ser mais fluido como 'por sua vez'.
+
+Página 52:
+  Status: completed
+  Score: 90.0
+  Erros: Erro gramatical: 'terminara' é singular, mas sujeito 'exércitos' é plural; deveria ser 'terminaram'., Texto corrigido adiciona 'the siege of ...' não explícito no OCR ('where...'), o que pode ser inferência válida mas altera ligeiramente., Inconsistência nas aspas: original usa duplas (“ ”), tradução usa simples (‘ ’)., Corte abrupto no final mantido, mas verbo incompleto afeta precisão.
+
+Página 53:
+  Status: completed
+  Score: 93.0
+  Erros: Texto truncado mantido como no original/corrigido, Estrutura frasal ligeiramente adaptada ('cercos ao Império' em vez de 'encircling of the ... Imperium'), 'Entravava' é correto mas menos comum que alternativas como 'impedia'
+
+Página 54:
+  Status: completed
+  Score: 95.0
+  Erros: 'Grand openings' traduzido como 'grandes aberturas', que pode soar literal demais em contexto militar/heróico; 'oportunidades' seria mais idiomático., Tradução cortada em 'alist...' como no original, mas poderia explicitar 'alistamento nacional universal'., 'Standing armies' como 'exércitos permanentes' é aceitável, mas em contextos filosóficos/militares pode preferir 'exércitos de linha' ou 'permanentes'.
+
+Página 55:
+  Status: completed
+  Score: 79.0
+  Erros: OCR não corrigiu 'out ways', provavelmente 'sought ways', impactando a tradução inicial, Tempos verbais imprecisos: 'had dreaded and exaggerated' traduzido como 'temeu e exagerou' em vez de 'havia temido e exagerado', Texto incompleto no final, mas preservado como no original, Falta de verbo principal na primeira frase ('formas de impor isso' soa fragmentado)
+
+Página 56:
+  Status: completed
+  Score: 95.0
+  Erros: Texto corrigido ainda apresenta corte incompleto em 'mat...', similar ao OCR original., 'Swarmed round' traduzido como 'se agrupavam em torno', que é aceitável mas perde o sentido de aglomeração caótica como um enxame., Corte abrupto em 'da vontade...', fiel ao original mas deixa termo filosófico incompleto ('primitive will-to-power').
+
+Página 57:
+  Status: completed
+  Score: 90.0
+  Erros: Primeira frase carece de sujeito claro ('por meio do parlamentarismo proporcionou' soa incompleto sem contexto anterior), 'Explorar os órgãos' pode soar ambíguo; 'exploit' implica uso oportunista, mas 'utilizar' seria mais neutro, Ordem invertida em 'imperialismo “liberal” do livre-comércio' ligeiramente menos direta que original
+
+Página 58:
+  Status: completed
+  Score: 96.0
+  Erros: 'Pretendia' pode sugerir fingimento em vez de intenção; 'tencionava' seria mais neutro., Final cortado preservado fielmente, mas incompleto no original.
+
+Página 59:
+  Status: completed
+  Score: 94.0
+  Erros: 'economics' (plural no original) traduzido como 'a economia' (singular), Adição de 'Nesta era de...' no final da tradução, não presente no texto corrigido fornecido, 'economic defensive' como 'defesa econômica' é funcional, mas literal seria 'defesa econômica' ou 'posição defensiva econômica'
+
+Página 60:
+  Status: completed
+  Score: 96.0
+  Erros: Texto incompleto no final ('What matt...' não fully expandido no corrigido), 'Hall-mark' traduzido como 'selo distintivo', funcional mas poderia ser mais idiomático como 'marca distintiva'
+
+Página 61:
+  Status: completed
+  Score: 87.0
+  Erros: Primeira frase 'Diga com certeza' soa como imperativo direto, perdendo possível tom retórico do original 'Say with certainty' (possivelmente continuação de 'não se pode'), 'Que é' é erro gramatical; deve ser 'O que é', Texto incompleto preservado, mas corte abrupto em 'forte...'
+
+Página 62:
+  Status: completed
+  Score: 88.0
+  Erros: 'mightiest' traduzido como 'maior', implicando tamanho em vez de poder, 'West-European' como 'oeste-europeia', termo não idiomático em PT, Adição de 'que ainda' no final, não presente no original corrigido, 'gently bring forth' como 'gerar suavemente' pode soar forçado no contexto filosófico
+
+Página 63:
+  Status: completed
+  Score: 85.0
+  Erros: "massa indefesa de povo" soa estranho; melhor 'massa indefesa de pessoas', "algumas centenas de vezes maior" impreciso; original é 'some hundred times' (cerca de cem vezes), "sem considerar limites algum" gramaticalmente incorreto; deve ser 'qualquer limite' ou 'quaisquer limites', "à mercê da possibilidade" altera o sentido; original 'in presence of' é 'na presença de' ou 'diante de', "enrolar Ásia e Europa" tradução literal inadequada; 'roll up' idiomático para conquistar/engolir, sugerir 'engolir' ou 'devastar', Texto cortado similarmente, mas incompletude não afeta avaliação
+
+Página 64:
+  Status: completed
+  Score: 97.0
+  Erros: Tradução de 'firms' como 'firmas' é literal, mas 'empresas' seria mais idiomático em contexto econômico filosófico.
+
+Página 65:
+  Status: completed
+  Score: 92.0
+  Erros: 'aircraft' traduzido como 'a aviação', que é aceitável mas amplo; contexto sugere indústrias de aeronaves., 'the actual bodyguard' como 'a guarda-costas real' – 'real' pode implicar 'royal'; melhor 'de fato' ou 'efetiva'., Final cortado de forma similar, mas 'revo...' no corrigido não aparece na tradução.
+
+Página 66:
+  Status: completed
+  Score: 91.0
+  Erros: Correção de OCR boa, mas '^' footnote preservado sem resolução, Ordem invertida: 'Povos “fellahin” imemorialmente antigos' vs. 'Immemorially old “Fellaheen” peoples', 'compra de generais' simplifica 'buying-off' (suborno), 'o inglês' genérico para 'the Englishman', Corte no final mantido, mas incompleto
+
+Página 67:
+  Status: completed
+  Score: 92.0
+  Erros: Erro na tradução final: 'Nenhuma parte pod...' não corresponde a 'Nowhere can the decline...', que deveria ser 'Em lugar nenhum pode o declínio...' , Texto cortado abruptamente no final, afetando completude , Estrutura de página mantida, mas formatação de em-dash e quebras de linha poderia ser mais precisa
+
+Página 68:
+  Status: completed
+  Score: 88.0
+  Erros: Tradução de 'not being talked about' como 'não ser falada' é imprecisa; melhor 'não ser mencionada' ou 'não ser falada sobre'., 'Nay' traduzido como 'quiçá' é incorreto; 'nay' aqui significa 'não apenas, mas' ou 'pelo contrário', sugerindo 'não, positivamente'., Texto cortado no final ('positivament...'), refletindo o original, mas pode confundir., 'Husky' como 'robusta' é aceitável, mas 'fortalhona' ou 'vigorosa' poderia capturar melhor o tom coloquial.
+
+Página 69:
+  Status: completed
+  Score: 90.0
+  Erros: 'do lado econômico' soa ligeiramente estranho; melhor 'sob o aspecto econômico' ou 'pelo prisma econômico', Corte abrupto no final ('daque...') não reflete completamente 'of historic tragedy, of gr...', 'visão política autêntica' é aceitável, mas 'perspectiva política genuína' poderia ser mais precisa para 'political outlook' em contexto spengleriano
+
+Página 70:
+  Status: completed
+  Score: 93.0
+  Erros: Texto truncado no final ('United State...') foi completado na tradução como 'Estados Unidos', o que é razoável mas não explicitamente no OCR corrigido, 'West-European' traduzido literalmente como 'oeste-europeu', menos idiomático em PT, Frase inicia com minúscula ('invade'), preservando a estrutura fragmentada do original, mas pode confundir em contexto isolado
+
+Página 71:
+  Status: completed
+  Score: 94.0
+  Erros: Texto truncado no final ('forma u...'), igual ao original corrigido., Possível erro de concordância de gênero/número: 'A maior parte desses não foi incorporada' – 'desses' (masc. pl.) sugere 'não foram incorporados'.
+
+Página 72:
+  Status: completed
+  Score: 97.0
+  Erros: Leve falta de paralelismo na lista de métodos: 'lynching' e 'kidnapping' são substantivos diretos, enquanto 'attempts to assassinate, murder...' sugere tentativas para os subsequentes; tradução aplica 'tentativas' apenas ao assassinato., Expressão 'exército de tradições antigas' é literal, mas pode soar idiomática em PT; nuance filosófica de 'army of old traditions' (exército representando tradições) preservada, mas não otimizada.
+
+Página 73:
+  Status: completed
+  Score: 85.0
+  Erros: A tradução inicia com 'classe alta ... revelar' no infinitivo, sem verbo conjugado equivalente a 'will ... reveal' do original, resultando em frase gramaticalmente incompleta e infiel ao sentido interrogativo., 'reveal all at once' traduzido como 'revelar de repente'; 'de repente' sugere subitaneidade, mas 'all at once' implica simultaneidade ('todas de uma vez')., 'thought of money' como 'pensamento no dinheiro' é aceitável, mas soa ligeiramente estranho; melhor 'pensamento do dinheiro'., Texto cortado no final de forma similar ao original, mas 'estados separad...' é abrupto.
+
+Página 74:
+  Status: completed
+  Score: 62.0
+  Erros: Erro grave em 'epochal point' traduzido como 'ponto épico' (deve ser 'ponto épocal'), 'all-too-short period' traduzido erroneamente como 'todo-pouco-tempo' (não existe em português; deve ser 'período muito curto' ou 'extremamente breve'), 'prevent others by force from outdoing her' como 'impedir à força que outros a superem' – construção gramatical estranha e imprecisa; melhor 'impedir pela força que outros a superem', Falta de maiúscula em 'novembro de 1918' (deve ser 'Novembro de 1918'), Texto cortado de forma similar ao original, mas sem indicação clara
+
+Página 75:
+  Status: completed
+  Score: 85.0
+  Erros: Erro de digitação grave: 'Ressistem' em vez de 'Restam'., Tempo verbal inadequado: 'troca' (presente) não reflete o pretérito perfeito 'has exchanged'; soa anacrônico., 'penetrante dor' é tradução literal e pouco natural para 'painful penetration', que sugere profundidade analítica com dor., Conexão frasal após vírgula em 'Galsworthy descreveu' poderia ser mais fluida., Texto truncado de forma similar ao original, mas sem indicação clara.
+
+Página 76:
+  Status: completed
+  Score: 87.0
+  Erros: Adição de conteúdo não presente no texto corrigido ('particularmente o da proteção pela marinha britânica. Mas nad...'), Texto de tradução incompleto no final, 'commonwealth de nações' em minúsculas, sem padronização como termo próprio
+
+Página 77:
+  Status: completed
+  Score: 92.0
+  Erros: A tradução adiciona conteúdo além do texto corrigido fornecido ('o fim da *la grande nation*. Seu herd...'), o que compromete a fidelidade exata., 'one-time thruster' traduzido como 'antigo impulsionador' é impreciso e soa estranho; 'thruster' (possivelmente 'Dränger' em Spengler) merece termo mais idiomático como 'audaz' ou 'agitador'., Uso de asteriscos para itálico (*la grande nation*) é inconsistente com formatação padrão acadêmica., 'façanhas valentes' é aceitável, mas 'valorous' poderia ser 'valerosas' para maior precisão retórica.
+
+Página 78:
+  Status: completed
+  Score: 78.0
+  Erros: Erro grave: '退却' (japonês para 'retreat') em vez de 'retirada' ou 'recuo'., Imprecisão em 'It is peculiarly apt to grow...' traduzido como 'Ele tem uma peculiaridade de crescer...', alterando o sentido original., 'hatred of an enemy' traduzido como 'o ódio a um inimigo', melhor como 'ódio por um inimigo'., Assunção na continuação 'impoverished an...' como 'empobrecida e dilacerada', sem base exata no texto fornecido., 'raça humana' é aceitável, mas em contextos filosóficos modernos prefere-se 'humanidade' ou 'espécie humana'.
+
+Página 79:
+  Status: completed
+  Score: 92.0
+  Erros: Correção de OCR assume 'at all' como início de frase negativa sem 'not' explícito no fragmento, 'remarked' traduzido como 'observadas', que é aceitável mas menos preciso em contexto filosófico (melhor 'notado' ou 'reparado'), Frase 'cared to be concerned in them' resulta em 'se preocupavam em se envolver', ligeiramente redundante e menos idiomática
+
+Página 80:
+  Status: completed
+  Score: 88.0
+  Erros: Título 'THE WHITE WORLD-REVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA', invertendo a ordem e adicionando artigo indefinido, Adição de 'uma questão da ameaça' no final, que não aparece no texto original fornecido, 'mighty upheaval' como 'grande comoção' suaviza o tom forte de 'upheaval', 'the look of the age' como 'a aparência da era' poderia ser mais idiomático como 'o aspecto da era', Corte do texto ligeiramente alterado no final
+
+Página 81:
+  Status: completed
+  Score: 92.0
+  Erros: 'array' não corrigido no texto corrigido (possível erro OCR para 'army' ou 'array' militar), Texto incompleto/cortado de forma similar ao original, Título 'WHITE WORLD-REVOLUTION' traduzido literalmente, mas pode ser termo específico (ex: Spengler)
+
+Página 82:
+  Status: completed
+  Score: 90.0
+  Erros: Frase inicial incompleta no original ('eye for the trend of events' provavelmente 'With an eye for...'), não fully corrigida no OCR e traduzida literalmente, Adição não presente no original: 'e muda para ...' no final da tradução, 'And hence' traduzido como 'E assim', menos preciso que 'E daí', 'estates' como 'propriedades' aceitável, mas em contexto romano poderia ser mais específico como 'fortunas' ou 'patrimônios'
+
+Página 83:
+  Status: completed
+  Score: 85.0
+  Erros: 'profiteurs' não traduzido, mantido em francês, quebrando precisão e fluência., 'funcionários partidários' é aceitável mas pouco natural; pode confundir com 'partidários'., Interpretação livre no final: 'He brought the terrible period' traduzido como 'pôs fim ao', assumindo contexto não explícito no texto dado., Título 'THE WHITE WORLD-REVOLUTION' para 'A REVOLUÇÃO MUNDIAL BRANCA' fiel, mas contexto filosófico/político pode demandar nota.
+
+Página 84:
+  Status: completed
+  Score: 92.0
+  Erros: Texto cortado no final de forma idêntica ao original ('obstac...' / 'doi...'), sugerindo incompletude não resolvida, Uso de 'sentar em juízo' é aceitável mas menos idiomático que 'sentar em julgamento' ou 'julgar', 'Houvessem' é gramaticalmente correto mas soa arcaico em português moderno; 'tivessem' seria mais fluido, Falta de artigo em 'e suas reformas' (deveria ser 'e as suas reformas')
+
+Página 85:
+  Status: completed
+  Score: 91.0
+  Erros: 'Vai sem dizer' não é idiomático em português; soa estranho., 'dentro dele próprio também' é ligeiramente redundante., Texto truncado no final ('p...'), mas preservado fielmente ao corrigido.
+
+Página 86:
+  Status: completed
+  Score: 92.0
+  Erros: Texto truncado no original e corrigido é preservado, mas tradução parece extrapolar ligeiramente no final ('do nome. A inteligênc...'), 'viver adiante' soa um pouco forçado em português filosófico, Algumas quebras de linha ligeiramente alteradas, afetando formatação exata
+
+Página 87:
+  Status: completed
+  Score: 82.0
+  Erros: Adição de 'sinal do declínio' no final, não presente no texto corrigido ('It is a si...'), 'rank' traduzido como 'posto', que pode ser impreciso em contexto filosófico; sugerir 'hierarquia' ou 'rango', Título 'A REVOLUÇÃO MUNDIAL BRANCA' soa invertido; melhor 'A Revolução Branca Mundial', 'made any more right' traduzido como 'se torna mais correta', ligeiramente idiomático mas aceitável, 'economic classes' com aspas mantidas, mas 'economic' sem hífen no original
+
+Página 88:
+  Status: completed
+  Score: 94.0
+  Erros: 'Rank' traduzido como 'posto' é aceitável, mas poderia ser mais preciso como 'rango' ou 'posição social' em contexto hierárquico., Texto cortado no final, consistente com o original fornecido, mas sem indicação de continuação., 'Raças germânicas' é fiel, mas termo sensível; 'povos germânicos' poderia suavizar sem alterar sentido.
+
+Página 89:
+  Status: completed
+  Score: 81.0
+  Erros: Erro gramatical na tradução: 'novos correntes' deve ser 'novas correntes' (concordância de gênero)., Texto final incompleto: 'Spanish Sout...' traduzido como 'América do Sul', perdendo o adjetivo 'Spanish' (provavelmente 'Spanish South America')., Correção de OCR parcial: 'tlie' corrigido para 'the', mas persistem quebras como 'bourgeoi-sie' e corte em 'Sout...'.
+
+Página 90:
+  Status: completed
+  Score: 85.0
+  Erros: Adição de conteúdo não presente no texto corrigido no final ('começa de cima, apenas para da...'), 'as a matter of course' traduzido inadequada como 'como algo de per se', que soa artificial e não captura o sentido de naturalidade, Possível imprecisão em 'meet subordination' como 'aceitar a subordinação'; melhor 'enfrentar' ou 'cumprir naturalmente', Texto da tradução cortado prematuramente, afetando a completude, Número da página ajustado de [91] para [90], assumindo correção, mas sem contexto completo
+
+Página 91:
+  Status: completed
+  Score: 88.0
+  Erros: Texto corrigido adiciona 'and riots; one ...' não explicitamente no OCR original, mas aceitável; tradução expande ainda mais com 'de um modo ou de outro, todos eles são abortos, hom...' ausente no texto fornecido, comprometendo precisão., 'Condition.' traduzido como 'Condição.', mas contexto sugere possível 'tradição' ou 'condição' vital; fiel mas ambíguo., Estrutura preserva parágrafos, mas formatação do título e '91]' ligeiramente irregular., 'public-houses' como 'tabernas' é aceitável, mas poderia ser 'casas públicas' ou 'pubs' em contexto histórico.
+
+Página 92:
+  Status: completed
+  Score: 79.0
+  Erros: Erro ortográfico: 'reproche' não é termo padrão em português; deve ser 'reprovação' ou 'repreensão'., Falta de clareza gramatical: 'cujo modo de vida sentem' omite o sujeito 'eles', tornando a frase ambígua., 'once more be it said' traduzido como 'repetindo-se mais uma vez', o que não captura a estrutura idiomática formal., 'people' como 'povos' pode ser impreciso; contexto sugere 'pessoas' ou 'gentes'., Texto fragmentado mantido sem indicação de continuação da frase anterior ('custom').
+
+Página 93:
+  Status: completed
+  Score: 93.0
+  Erros: Preposição incorreta em 'o ódio abissal do proletário de toda forma superior' (deveria ser 'à', 'por' ou 'contra' para indicar objeto do ódio)., Frase inicial 'Cultura e submete...' é fragmentada no original, mantida fielmente mas soa abrupta., 'higher form of every sort' traduzido como 'toda forma superior', mas poderia explicitar 'de qualquer tipo' para maior clareza., 'franchise' como 'sufrágio' é aceitável, mas contexto político deve ser confirmado.
+
+Página 94:
+  Status: completed
+  Score: 94.0
+  Erros: Texto incompleto no final, com completude assumida na correção e tradução, Página '95 ]' no OCR ignorada corretamente
+
+Página 95:
+  Status: completed
+  Score: 90.0
+  Erros: Título 'THE WHITE WORLD-REVOLUTION' traduzido literalmente como 'A REVOLUÇÃO MUNDIAL BRANCA'; em contexto histórico/político (possivelmente contrarrevolução 'branca'), pode precisar de nuance., 'let no one suppose' renderizado como 'ninguém suponha', que soa imperativo arcaico e menos natural., 'a spirit from Moscow' como 'um espírito de Moscou', perdendo a ideia de origem ('from')., Adição de 'encontrou expressão' no final, extrapolando o 'found e...' do original incompleto.
+
+Página 96:
+  Status: completed
+  Score: 93.0
+  Erros: 'for once' traduzido como 'de uma vez por todas' intensifica o tom além do original (excepcional vs definitivo)., 'subiram na vida' é coloquial para contexto filosófico/acadêmico., Fim do texto cortado de forma idêntica ao original, sem completude assumida., Quebras de linha no texto corrigido não são perfeitamente preservadas na tradução.
+
+Página 97:
+  Status: completed
+  Score: 92.0
+  Erros: Texto corrigido altera final para 'class...' possivelmente adicionando conteúdo não presente no OCR original, Formatação do título com '###' introduz markdown não presente no original
+
+Página 98:
+  Status: completed
+  Score: 93.0
+  Erros: Simplificação de 'making their way upward' para 'estão subindo', perdendo nuance de esforço, 'Real property' traduzido como 'verdadeira propriedade', podendo ser 'propriedade real' para fidelidade filosófica, Manutenção do '^' presumivelmente nota de rodapé, sem alteração
+
+Página 99:
+  Status: completed
+  Score: 90.0
+  Erros: Adição de conteúdo inventado no final ('que não são capazes de apreci...'), não presente no texto corrigido., Alteração estrutural no final: 'They fill their house...' vira 'Enchendo sua casa...', mudando de indicativo para particípio., 'provêm alguém de uma subvenção' é preciso mas soa ligeiramente awkward em PT natural., 'patrono snobista' – 'snobista' é aceitável mas menos comum que 'esnobe'., Título 'THE WHITE WORLD-REVOLUTION' traduzido com ordem invertida ('A REVOLUÇÃO MUNDIAL BRANCA'), comum mas altera ênfase., 'Maecenas' mantido sem adaptação para 'Mecenas', padrão em PT filosófico.
+
+Página 100:
+  Status: completed
+  Score: 96.0
+  Erros: Texto corrigido completa o final cortado no OCR ('n...' para 'not among art-deale...'), o que é uma boa inferência mas não 100% literal ao OCR fornecido., Tradução corta abruptamente como o original, em 'podiam se e...', refletindo o texto incompleto., 'matter-of-course environment' traduzido como 'ambiente natural', que é aproximado mas poderia ser mais preciso.
+
+Página 101:
+  Status: completed
+  Score: 88.0
+  Erros: Construção enfática 'so little does its presence signify...' mal traduzida como 'de modo que a sua presença não significa...', perdendo ênfase e precisão., Título 'THE WHITE WORLD-REVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA', o que pode não ser adequado para termo filosófico específico (possivelmente manter original ou usar tradução padrão)., 'Brooding over it' como 'remoer sobre ele' é coloquial; falta tom filosófico mais preciso., Sujeito composto ('brooding..., sense..., jealousy') leva a 'é que o transformam', com possível awkwardness na concordância e referência de 'o'., Estrutura do título alterada ao traduzir, podendo afetar formatação acadêmica.
+
+Página 102:
+  Status: completed
+  Score: 89.0
+  Erros: Número de página alterado de '104' (OCR) para '102' sem justificativa clara., Adição de 'de 1917' no final, ausente no texto corrigido fornecido., Título 'THE WHITE WORLD-REVOLUTION' traduzido literalmente como 'A REVOLUÇÃO MUNDIAL BRANCA', que pode soar inadequado sem contexto (possível referência ideológica)., 'history seeing through itself' traduzido de forma muito literal, afetando ligeiramente a naturalidade.
+
+Página 103:
+  Status: completed
+  Score: 96.0
+  Erros: Texto incompleto no final (correspondendo ao original, mas nota-se truncamento), 'trades' traduzido como 'negocia', que é aceitável mas poderia ser mais preciso como 'comercia' ou 'troca' no contexto econômico
+
+Página 104:
+  Status: completed
+  Score: 91.0
+  Erros: Correção de OCR boa, mas numeração alterada de 106 para 104 sem justificativa clara, Estrutura da segunda frase ligeiramente alterada, com dois 'que' consecutivos que podem soar redundantes, 'excitar as m...' pode carregar conotação inadequada; 'stir up' sugere agitação política, Título com negrito adicionado não presente no original
+
+Página 105:
+  Status: completed
+  Score: 78.0
+  Erros: Início da frase principal em minúscula ('a democracia'), Alteração do tempo verbal: 'has been' traduzido como 'teria sido', assumindo condicional implícito não presente no texto corrigido, 'eclodido' inadequado para 'broken out' em contexto de revolução (melhor 'irrompido' ou 'rebentado'), 'por “citizen”' impreciso; deveria ser 'para “citizen”' ou 'em “citizen”', Falta de 'se' explícito para condicional, tornando a frase incompleta
+
+Página 106:
+  Status: completed
+  Score: 92.0
+  Erros: Texto cortado no final, refletindo o OCR incompleto ('pi'o...' corrigido para 'proletariat, the “work...'), Paginação corrigida de '109J' para '106', mas possível discrepância com contexto maior, 'clerks' como 'caixeiros' é aceitável em Spengler, mas pode variar em edições padrão como 'funcionários' ou 'petit-burgueses'
+
+Página 107:
+  Status: completed
+  Score: 90.0
+  Erros: 'seguimento' é inadequado para 'following'; sugere 'clientela', 'adeptos' ou 'base de apoio', 'autorespeito' soa pouco natural; prefira 'respeito próprio' ou 'auto-respeito', Tradução incompleta no final, espelhando o original, mas poderia indicar continuidade
+
+Página 108:
+  Status: completed
+  Score: 90.0
+  Erros: 'Attacking party' traduzido como 'partido atacante' é literal, mas pode soar menos natural em contexto político; 'força atacante' ou 'grupo de assalto' seria mais idiomático., 'Scavengers' como 'catadores de lixo' é aceitável, mas em contexto histórico pode ser 'lixeiros' ou 'varredores'., Frase final cortada igualmente, mas estrutura de parágrafo ligeiramente alterada nas quebras de linha., 'Uns com os outros' é correto, mas 'entre si' seria mais conciso e fluente.
+
+Página 109:
+  Status: completed
+  Score: 88.0
+  Erros: Erro gramatical: 'do vontade-de-poder' deve ser 'da vontade-de-poder' (artigo feminino incorreto)., 'Urge to' traduzido como 'urgência por', que soa menos natural; melhor 'impulso para' ou 'tendência a'., Ordem no título invertida: 'White World-Revolution' sugere 'Revolução Mundial Branca'., Texto incompleto preservado, mas poderia indicar elipse explicitamente.
+
+Página 110:
+  Status: completed
+  Score: 91.0
+  Erros: 'evasão ao trabalho' soa ligeiramente estranho; melhor 'evasão do trabalho', 'remediar isso' é aceitável, mas 'corrigir/remediar a situação' seria mais fluido, Corte no final ('entrave ...') reflete o original, mas perde 'proletarianized', 'ofício' é bom, mas 'profissão' ou 'trabalho' poderia variar contexto
+
+Página 111:
+  Status: completed
+  Score: 93.0
+  Erros: Texto cortado no final tanto no corrigido quanto na tradução, Nacionalidades em minúscula na tradução (Poloneses, Judeus, etc.), Pequena quebra de linha no texto corrigido mantida na tradução
+
+Página 112:
+  Status: completed
+  Score: 94.0
+  Erros: Expansão de 'Demo...' para 'Democratas e socialistas do ...' adiciona conteúdo inferido além do texto corrigido fornecido., 'Strelitz' mantido como no OCR, mas termo histórico padrão em português é 'Streltsi' ou 'Streltsy'., Título perde ênfase maiúscula do original, embora tradução seja adequada.
+
+Página 113:
+  Status: completed
+  Score: 82.0
+  Erros: Erro de precisão em 'society met the Nihilist attack upon these with submission' traduzido como 'a sociedade enfrentou o ataque niilista a estes com submissão': 'enfrentou' sugere confronto ativo, enquanto o original indica recepção passiva/submissão., Adição de conteúdo não presente no texto corrigido: 'está doente, doente ...' não aparece no original fornecido, que corta em 'Civilization is ta...'., Estrutura da frase 'Built up though it was...' ligeiramente alterada, perdendo ênfase concessiva plena., 'Grade' traduzido como 'estamento': aceitável em contexto spengleriano, mas poderia ser 'rango' ou 'ordem' para maior precisão., 'Rulership' como 'senhorio': funcional, mas 'domínio' ou 'governo' pode ser mais idiomático em filosofia política.
+
+Página 114:
+  Status: completed
+  Score: 92.0
+  Erros: Texto corrigido ainda truncado no final ('the cr...'), traduzido especulativamente como 'esprit crítico do século', o que introduz conteúdo não confirmado no OCR fornecido., 'reverencia' escrito sem acento (deve ser 'reverência' em português padrão)., Termo 'esprit crítico' mantém francês, o que pode ser apropriado em contexto filosófico (ex. Spengler), mas não corresponde diretamente ao original truncado., Frase inicial parece continuação de parágrafo anterior, preservada mas abrupta em ambos.
+
+Página 115:
+  Status: completed
+  Score: 91.0
+  Erros: Tradução incompleta no final: faltou 'of the State, down to the', traduzido apenas como 'do ...'., 'Meticulosamente protegidos' é ligeiramente mais enfático que 'carefully protected'., 'Anfitriã da moda' soa um pouco coloquial para contexto filosófico/acadêmico., Adição implícita de 'In' no texto corrigido do OCR não está no OCR bruto, mas bem assumida.
+
+Página 116:
+  Status: completed
+  Score: 86.0
+  Erros: Adição de 'ou de uma rua de' no final, ausente no texto corrigido, afetando fidelidade, Erro tipográfico: 'de baixo' em vez de 'de baixo', 'Shirker' traduzido como 'preguiçoso', que suaviza nuance de evasão ou preguiça laboral, Frase inicial fragmentada ('feeling and thinking to...') traduzida de forma abrupta, impactando fluidez, Quebras de linha não perfeitamente preservadas na tradução
+
+Página 117:
+  Status: completed
+  Score: 88.0
+  Erros: Texto OCR e corrigido ainda incompletos no início e fim, com frase fragmentada não totalmente resolvida., Quebras de linha no OCR/corrigido não perfeitamente padronizadas., 'Lazy off...' corrigido assumindo 'lazy office-worker', mas incompleto.
+
+Página 118:
+  Status: completed
+  Score: 93.0
+  Erros: Texto incompleto no final ('contem...'); tradução adapta para 'como é chamado desde...', adicionando 'desde' não presente., Adição de 'manipuladora' em 'propaganda cinicamente manipuladora', que infere mas não é literal ('cynical propaganda').
+
+Página 119:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução de 'lower orders' como 'ordens inferiores' é literal mas pouco idiomática em português filosófico; sugerir 'classes inferiores' ou 'baixas ordens'., Adição de 'eram de...' no final assume completude do trecho original cortado, o que pode alterar ligeiramente o sentido., Pequena inconsistência na pontuação final do trecho traduzido.
+
+Página 120:
+  Status: completed
+  Score: 89.0
+  Erros: 'Rank' traduzido como 'patente', inadequado no contexto filosófico-histórico (melhor 'posto', 'classe' ou 'hierarquia')., Texto cortado no original, mas tradução completa frase com 'sacerdócio de Marduk', que pode ser inferência além do OCR fornecido., Variação 'Nabonida' vs. 'Nabonid'; padronizar para 'Nabônido' em português acadêmico.
+
+Página 121:
+  Status: completed
+  Score: 94.0
+  Erros: Texto incompleto no final ('vu...' no corrigido, 'instin...' na tradução, possivelmente 'vulgar' ou similar no original), Leve discrepância no final da tradução que não matches perfeitamente o texto corrigido
+
+Página 122:
+  Status: completed
+  Score: 95.0
+  Erros: Inconsistência no tempo verbal: 'have promoted' (presente perfeito) traduzido como 'promoveu' (pretérito)., Título 'THE WHITE WORLD-REVOLUTION' traduzido literalmente como 'A REVOLUÇÃO MUNDIAL BRANCA', que pode soar inadequado sem contexto (possível conotação racial)., 'Marxian' como 'marxista' é aceitável, mas 'marxiano' seria mais preciso em contexto filosófico., Capitalização do título não preservada exatamente (maiúsculas parciais).
+
+Página 123:
+  Status: completed
+  Score: 82.0
+  Erros: Correção de OCR mínima: texto ainda cortado ('agi...') e pouco alterado em relação ao OCR original, Tradução completa frase cortada ('party democratic a...') como 'agitação democrática partidária de baixo', assumindo conteúdo não fornecido, 'Mob element' traduzido como 'elemento da multidão', que soa um pouco literal e menos idiomático em contexto filosófico (sugere 'elemento plebeu' ou 'turba'), Inicia com minúscula 'a disciplina', preservando o original, mas pode confundir em contexto isolado
+
+Página 124:
+  Status: completed
+  Score: 96.0
+  Erros: Nome 'Karlstadt' no original corrigido aparece como 'Carlstadt' na tradução (variação aceitável, mas inconsistente), 'More’s Utopia' traduzido como 'Utopia de Morus' (correto em PT acadêmico, mas original usa 'More'), Texto truncado no final ('qu...') refletido como '...' sem completude explícita
+
+Página 125:
+  Status: completed
+  Score: 82.0
+  Erros: Adição de conteúdo não presente no texto corrigido na última frase: 'espera através de seus seguidores destruir a sociedade...', enquanto o original para em 'hopes through i...' (possível extrapolação indevida)., Estrutura da frase 'This lands him either in vague Utopias or throws him back upon...' alterada para 'Isso o leva ou a utopias vagas ou o atira de volta ao...', suavizando a dicotomia original., 'remote from and hostile to the world' traduzido como 'remoto e hostil ao mundo', omitindo 'from' que adiciona nuance de distanciamento.
+
+Página 126:
+  Status: completed
+  Score: 90.0
+  Erros: 'tone of rich and poor, right and wrong' traduzido como 'tom de rico e pobre, certo e errado', que pode não captar perfeitamente o sentido pejorativo de equiparação ou confusão moral/social., 'trade-union official' como 'oficial do sindicato' soa inadequado (conotação militar); termo mais preciso seria 'dirigente sindical'., Texto cortado abruptamente no final, similar ao OCR, mas sem nota sobre incompletude., Frase inicial parece continuação de período anterior, o que afeta fluidez sem contexto.
+
+Página 127:
+  Status: completed
+  Score: 92.0
+  Erros: Adição de frase final não presente no texto corrigido ('Mas o famoso “olho ...'), Imperativo 'procure' soa singular/directo, enquanto original é imperativo geral ('seek'), 'hard meaning of life' traduzido como 'duro sentido da vida', que é aceitável mas poderia ser 'duro significado da vida' para maior precisão filosófica
+
+Página 128:
+  Status: completed
+  Score: 88.0
+  Erros: 'enjoyment' traduzido como 'gozo', que pode soar inadequado ou com conotação sexual; melhor 'prazer' ou 'desfrute'., 'industry' como 'laboriosidade' é aceitável, mas 'diligência' ou 'aplicação' poderia ser mais natural., 'joy in achievement' como 'alegria no desempenho'; 'desempenho' sugere performance, não conquista; melhor 'alegria na conquista' ou 'prazer na realização'., Frase complexa sobre 'Capitalism' tem parsing ambíguo no original corrigido; tradução interpreta bem, mas adiciona clareza não explícita., Texto incompleto no final preservado, mas poderia notar suposição em 'frente política única'.
+
+Página 129:
+  Status: completed
+  Score: 92.0
+  Erros: Correção OCR no final ('t...' para 'the cat...') parece incompleta ou especulativa (provavelmente 'catchwords'), Texto truncado no final em todos os versions, afetando avaliação completa, Estrutura de parágrafos bem mantida, mas quebras de linha ligeiramente alteradas, 'the lowest' traduzido como 'o mais baixo' é literal, mas poderia ser mais idiomático como 'o mais vulgar' em contexto filosófico, 'won the day' como 'prevaleceu' é aceitável, mas 'levou a melhor' poderia ser mais fluido
+
+Página 130:
+  Status: completed
+  Score: 95.0
+  Erros: Hífens residuais no texto corrigido (ex: 'Soc-rates') não totalmente eliminados., Texto é um fragmento iniciando no meio da frase, preservado fielmente mas abrupto., Corte no final ('sistema l...') mantido, sem completude.
+
+Página 131:
+  Status: completed
+  Score: 95.0
+  Erros: 'Fastidioso' é aceitável, mas ligeiramente formal para 'tiresome', que implica tédio cotidiano., Texto cortado no final, mas fiel ao OCR fornecido.
+
+Página 132:
+  Status: completed
+  Score: 82.0
+  Erros: Erro de digitação grave: 'escavizando-os' em vez de 'escravizando-os'., Adição de conteúdo não presente no original: 'E o mesmo se aplica a todos os outro...', enquanto o original tem 'And the...' ou '...'., Imprecisão na estrutura frasal: 'ideal da guerra de classes liberal, assim como o bolchevique' não captura perfeitamente 'the ideal of the Liberal, as of the Bolshevist, class war'., Final incompleto e alterado, rompendo fidelidade.
+
+Página 133:
+  Status: completed
+  Score: 90.0
+  Erros: Frase 'em que desfrutá-la' é gramaticalmente awkward e pouco precisa; 'it' refere-se a 'panem et circenses', mas pronominalização não flui bem., 'dos aristocráticos' soa estranho em PT; original usa adjetivo 'the aristocratic', mas equivalente natural seria 'dos aristocratas'., Texto cortado no final ('seus mestres também...'), mas reflete o original fornecido., 'se empanturrarem' é coloquial, mas aceitável; poderia ser mais neutro como 'devorarem' para tom acadêmico.
+
+Página 134:
+  Status: completed
+  Score: 92.0
+  Erros: Texto cortado abruptamente no final ('vist...' em vez de 'vista'), Remoção do artefato OCR '139 3' é correta, mas não impacta pontuação, Uso de aspas tipográficas « » é apropriado para PT, mas consistente com original
+
+Página 135:
+  Status: completed
+  Score: 85.0
+  Erros: Título 'THE WHITE WORLD-REVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA', invertendo ordem e soando pouco natural em PT., 'bourgeoisie and labour' como 'burguesia e trabalho' é impreciso; 'labour' refere-se à classe trabalhadora., Adição de 'porque aceita...' no final, ausente no texto original/corrigido fornecido., 'producers and purchasers' como 'produtores e compradores' é literal, mas 'purchasers' pode ser 'adquirentes' ou 'consumidores' em contexto econômico., Primeira frase omite 'will' inicial explicitamente, integrando em em-dash.
+
+Página 136:
+  Status: completed
+  Score: 94.0
+  Erros: 'without regard to' traduzido como 'sem atenção ao', que não captura perfeitamente o sentido de desconsideração; 'atenção' soa inadequado., Quebras de linha na tradução ligeiramente desalinhadas em relação ao original corrigido., 'supply as little as possible' como 'fornecer o mínimo possível' é preciso, mas poderia enfatizar a qualidade inferior implícita.
+
+Página 137:
+  Status: completed
+  Score: 94.0
+  Erros: Primeira frase da tradução ('era varrer') omite ligeiramente o sentido intencional do original ('was to clear away'), soando um pouco abrupta., Término cortado mantido, mas 'financistas' assume correção implícita do OCR., Título traduzido de forma direta, mas 'White World-Revolution' poderia ser capitalizado de modo mais consistente em PT acadêmico.
+
+Página 138:
+  Status: completed
+  Score: 92.0
+  Erros: 'Todas essas coisas' soa ligeiramente coloquial para contexto acadêmico; 'Todas elas' seria mais preciso., Texto cortado abruptamente em '1918...', mas fiel ao fornecido; omite 'by their prophecies' do corrigido., Quebra de linha em 'marcadas para
+destruição' ligeiramente desalinhada.
+
+Página 139:
+  Status: completed
+  Score: 93.0
+  Erros: Gênero incorreto: 'caminho ... foi percorrida' deve ser 'percorrido' (masculino)., Texto cortado em 'conquista...', mas fiel ao original incompleto., Pequena perda de fluidez na construção da primeira frase longa.
+
+Página 140:
+  Status: completed
+  Score: 94.0
+  Erros: Texto cortado no final ('pilla...'), igual ao OCR corrigido., Correção de OCR boa, mas título tinha 'TEE' corrigido para 'THE'; final incompleto., 'Breed from him' traduzido como 'fazer brotar dele', levemente poético mas não exato.
+
+Página 141:
+  Status: completed
+  Score: 93.0
+  Erros: '1848' permanece solto sem contexto, mas preservado fielmente., 'crise econômico-mundial' inverte ordem natural em português (melhor 'crise mundial econômica')., 'willed' como 'desejada' é aproximado, mas enfraquece o tom intencional (deliberado/projetado seria melhor)., Terminologia filosófica geralmente boa, mas 'econômico-mundial' soa pouco idiomática.
+
+Página 142:
+  Status: completed
+  Score: 86.0
+  Erros: Colocação awkward em 'tem prosseguido ele mesmo', soa não natural, Adição de texto não presente no original corrigido ('na estrutura e no signifi...'), Número da página alterado de 147 para 142 sem contexto explícito de correção, Tradução literal excessiva em 'cada vez mais rapidamente', que poderia ser mais idiomática
+
+Página 143:
+  Status: completed
+  Score: 88.0
+  Erros: Repetição awkward na frase inicial: 'não o fez... não o fez?', que não captura perfeitamente a retórica invertida do inglês 'has it not?', Inversão em 'ruína econômico-mundial' (deveria refletir 'world-economic ruin' como 'ruína do mundo econômico' ou 'ruína econômico-mundial'), Texto cortado abruptamente no final, sem tradução do 'The e...' do corrigido, Título traduzido adequadamente, mas contexto filosófico (possivelmente Spengler) sugere cuidado com 'White' como 'Branca'
+
+Página 144:
+  Status: completed
+  Score: 95.0
+  Erros: Adição de 'viem' na tradução parece inferir continuação não explicitada no texto fornecido, embora coerente com o contexto.
+
+Página 145:
+  Status: completed
+  Score: 92.0
+  Erros: Título 'THE WHITE WORLD-REVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA', o que inverte a ordem e pode alterar o sentido (possivelmente 'Revolução do Mundo Branco' em contexto filosófico/político)., Falta 'a few' explícito, embora 'alguns' compense; fidelidade geral boa, mas corte idêntico ao original limita avaliação., 'wage-earners' como 'assalariados' é aceitável, mas menos preciso em contexto industrial histórico (melhor 'trabalhadores assalariados' ou 'operários')., 'executives' como 'executivos' soa moderno/anacrônico para texto filosófico antigo; sugerir 'dirigentes' ou 'administradores'., Terminologia filosófica como 'vitalidade da indústria' é boa, mas 'funcionamento organizado' poderia ser 'operação organizada' para mais precisão.
+
+Página 146:
+  Status: completed
+  Score: 92.0
+  Erros: Texto incompleto no final em OCR, corrigido e traduzido de forma consistente., 'segund...' parece ser abreviação incompleta de 'segundo' ou similar, mantida como no original.
+
+Página 147:
+  Status: completed
+  Score: 92.0
+  Erros: Final da última frase impreciso: 'da situação e...' não corresponde ao corte 'on the economi...' do original corrigido., Redundância leve em 'não consente e não pode consentir', que poderia ser mais conciso sem perder fidelidade., Título 'A HORA DA REVOLUÇÃO MUNDIAL' omite hífen ou estrutura exata de 'WORLD-REVOLUTION'.
+
+Página 148:
+  Status: completed
+  Score: 72.0
+  Erros: Texto corrigido é idêntico ao OCR com erros não corrigidos, como 'manufacturei' (deve ser 'manufacturer'), 'executive manual labour' traduzido como 'trabalho manual executado', assumindo correção implícita não explicitada no texto corrigido, 'allotted accordingly' renderizado vagamente como 'distribuída de acordo', Texto cortado no original ('the “ su...') completado na tradução sem indicação
+
+Página 149:
+  Status: completed
+  Score: 93.0
+  Erros: Correção OCR adicionou 'and out of it a...' no final, que não estava explicitamente no OCR original (terminava em 'an...'), Título 'THE WHITE WORLD-REVOLUTION' traduzido como 'A REVOLUÇÃO BRANCA MUNDIAL' – 'White' pode precisar de contexto específico (ex.: 'Branca' vs. simbólico)
+
+Página 150:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução incompleta no final: 'não só da A...' em vez de refletir 'not Germany...' adequadamente (provavelmente 'não só da Alemanha...'), 'self-help' traduzido como 'autodefesa', que sugere defesa mais do que autoajuda econômica/protecionista, 'full value' como 'valor integral' é aceitável, mas 'valor pleno' ou 'valor total' poderia ser mais preciso no contexto spengleriano
+
+Página 151:
+  Status: completed
+  Score: 95.0
+  Erros: Título traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA', mas poderia ser 'A REVOLUÇÃO BRANCA MUNDIAL' para melhor adequação ao inglês adjetival., Frase complexa do original ('sinking vitality, beginning from Germany has now embedded itself') ajustada criativamente, mas levemente alterada para clareza, sacrificando mínima literalidade., 'White nations' mantido como 'nações "brancas"', fiel mas terminologia sensível em contexto filosófico requer cautela., Estrutura preserva quebras, mas formatação de travessões e aspas poderia ser mais consistente (ex: em PT, usar « » ou manter ").
+
+Página 152:
+  Status: completed
+  Score: 86.0
+  Erros: Palavra 'playgrounds' não traduzida, mantida em inglês., 'working man' traduzido como 'homem do trabalho', soa pouco natural; melhor 'trabalhador'., 'receives very little thought' como 'recebe muito pouca atenção'; 'atenção' é impreciso, melhor 'consideração' ou 'pensamento'., Frase inicial 'contra o destino' parece fragmento abrupto, sem contexto claro de continuação., Texto cortado no final, mas preservado como no corrigido.
+
+Página 153:
+  Status: completed
+  Score: 92.0
+  Erros: Corte abrupto no final preservado do original, resultando em frase incompleta ('que e...'), Leve imprecisão em 'self-perfecting form' traduzido como 'forma em maturação e aperfeiçoamento próprio', que poderia ser mais idiomático
+
+Página 154:
+  Status: completed
+  Score: 97.0
+  Erros: Texto ainda incompleto no final, mas fiel ao OCR fornecido., 'or any work even' traduzido como 'ou qualquer trabalho sequer', ligeiramente arcaico mas aceitável., Quebras de linha no texto corrigido nem sempre preservadas perfeitamente na tradução.
+
+Página 155:
+  Status: completed
+  Score: 82.0
+  Erros: Frase inicial gramaticalmente incompleta em português, faltando sujeito explícito (ex.: o camponês que em Pomerânia...); original assume continuação., Erro significativo em 'ever again take up': 'deveria jamais retomar' inverte o sentido (sugestão de voltar seria recusada); correto seria 'voltasse a adotar'., 'Strike' como 'entraria em greve' é literal mas contextualiza mal; sugere recusa veemente, não greve sindical., 'Into the bargain' como 'como bônus' é irônico mas impreciso; melhor 'em cima disso' ou 'além disso'., Texto cortado abruptamente, preservando original mas sem nota.
+
+Página 156:
+  Status: completed
+  Score: 88.0
+  Erros: Omissão da frase final parcial 'The lower orders me...' no texto traduzido, Frase inicial tratada como completa, embora pareça continuação, mas adaptada corretamente, 'Higher rank of society' traduzido como 'classe superior da sociedade', que é aceitável mas poderia ser mais preciso como 'esfera superior' em contexto spengleriano
+
+Página 157:
+  Status: completed
+  Score: 90.0
+  Erros: Correção OCR no final ('b...' para 'by tom...') introduz possível erro não refletido na tradução., Tradução de 'matter of course' como 'questão de curso' é imprecisa e soa não natural; não captura o sentido de 'coisa óbvia/natural'., 'States in 1920' traduzido literalmente sem contexto provável ('United States').
+
+Página 158:
+  Status: completed
+  Score: 88.0
+  Erros: Erro na precisão: 'if the whole is not to collapse' traduzido como 'se o todo não quiser desabar', introduzindo 'querer' (vontade) inexistente no original; deveria ser infinitivo de propósito, como 'para que o todo não desabe'., 'luxuries' como 'luxos' é simplificado; melhor 'produtos de luxo' ou 'luxuários'., 'among coloured peoples' como 'entre povos de cor' é fiel mas termo datado e potencialmente sensível; considerar 'povos não brancos' em contexto moderno., Frase inicial parece fragmento contextual, mas tradução preserva imprecisão sem esclarecer.
+
+Página 159:
+  Status: completed
+  Score: 87.0
+  Erros: Inconsistência na tradução de 'Labour': alterna entre 'operária', 'Trabalho' e 'operárias', o que compromete a precisão terminológica., Título com negrito adicionado (**), não presente no original., 'It was the mere object in Labour politics' traduzido como 'Era mero objeto na política operária', ligeiramente ambíguo; 'object' pode sugerir 'alvo' ou 'objeto de manipulação'., Final cortado fielmente, mas incompleto ('quer o admita...' vs 'whether they admit it or co...').
+
+Página 160:
+  Status: completed
+  Score: 92.0
+  Erros: 'airy finance-capital' não corrigido no texto corrigido (provável erro de OCR para 'ethereal'), Texto incompleto no final, mantendo a quebra do original, 'made fluid' traduzido como 'liquidadas', ligeiramente impreciso (sugere dissolução em vez de liquidez)
+
+Página 161:
+  Status: completed
+  Score: 81.0
+  Erros: Frase inicial 'Italian than French miners' traduzida como 'italianos do que mineiros franceses', incompleta e gramaticalmente incorreta (falta 'more' implícito no original OCR), 'levado em conta' é menos idiomático que 'tomado em conta', Texto cortado no final, mas fiel ao original fornecido, Título 'THE WHITE WORLD-REVOLUTION' traduzido diretamente, mas poderia contextualizar melhor em filosofia histórica
+
+Página 162:
+  Status: completed
+  Score: 91.0
+  Erros: Texto incompleto no final, espelhando o original cortado, Correção de '167' para '[162]' assumida correta, mas não verificada, 'agreeable to it' traduzido como 'complacente', que soa ligeiramente pejorativo, 'Coloured' como 'homens de cor' é fiel ao contexto colonial, mas datado
+
+Página 163:
+  Status: completed
+  Score: 92.0
+  Erros: Final da última frase incompleto e interpretado como 'pelos sindicatos' baseado em 'white t...' do OCR corrigido, o que pode não ser preciso (provavelmente 'white trade unions')., 'Sovietes' é aceitável, mas 'soviéticos' poderia ser mais fluente em contexto acadêmico moderno., 'ao ritmo de' é literal, mas 'a uma taxa de' poderia ser mais idiomático para 'at the rate of'.
+
+Página 164:
+  Status: completed
+  Score: 86.0
+  Erros: Início da frase 'It is more, it moves' traduzido literalmente como 'É mais, move-se', soando incompleto ou awkward sem contexto anterior, 'white trade-union dictatorships' como 'ditaduras dos sindicatos brancos' é preciso, mas poderia esclarecer 'brancos' como referência racial ou étnica, Texto cortado no original e na tradução, mas consistente, 'mills' traduzido como 'tecelagens', adequado para contexto têxtil, mas genérico poderia ser 'fábricas' ou 'moinhos industriais'
+
+Página 165:
+  Status: completed
+  Score: 91.0
+  Erros: Texto cortado no final ('mo...') preservado, mas poderia ser indicado melhor, Interpretação em 'real property, real and indestructible' alterada para 'propriedade real, valor monetário real', perdendo fidelidade exata, 'figures' traduzido como 'cifras', que é aceitável mas menos preciso em contexto econômico (melhor 'figuras' ou 'números'), Estrutura do título em maiúsculas não totalmente preservada
+
+Página 166:
+  Status: completed
+  Score: 93.0
+  Erros: O início da tradução ('desse colapso') integra implicitamente 'it, but merely no longer averted —', mas omite tradução explícita dessa cláusula, podendo afetar a fidelidade exata., Texto adicional no final da tradução ('Quanto mais completamente o p...') não presente no original fornecido, sugerindo possível inclusão indevida ou corte incompleto., 'Labour-Socialism' traduzido como 'Socialismo Operário prático'; termo específico de Spengler poderia ser mais precisamente 'socialismo laboral' ou 'trabalhismo-socialista'.
+
+Página 167:
+  Status: completed
+  Score: 87.0
+  Erros: Texto corrigido altera número da página de '172' para '167' sem justificativa aparente., Final da tradução ('pela qual as classes dirigen...') parece especulativo ou incorreto, pois original OCR/corrigido termina em 'by whi...', indicando incompletude não preservada fielmente., 'Rank' traduzido como 'patente' é aceitável mas potencialmente impreciso em contexto filosófico-social; sugere conotação militar excessiva., Título 'THE WHITE WORLD-REVOLUTION' traduzido diretamente, mas poderia considerar contexto spengleriano para 'Revolução Mundial Branca'.
+
+Página 168:
+  Status: completed
+  Score: 96.0
+  Erros: Texto da tradução incompleto no final ('com toda a press...'), Redundância original mantida ('América Latina e na América do Sul') sem ajuste, 'anglo-americanos' em minúscula, inconsistente com convenções
+
+Página 169:
+  Status: completed
+  Score: 90.0
+  Erros: Adição de 'por isso' na frase sobre Napoleão, que introduz causalidade mais forte que o original 'was the better able'., Frase inicial 'luxo genuíno' começa abruptamente, assumindo contexto anterior, mas fiel ao OCR., Título 'A REVOLUÇÃO MUNDIAL BRANCA' inverte ordem natural em PT ('Branca Mundial' soa menos fluido).
+
+Página 170:
+  Status: completed
+  Score: 93.0
+  Erros: Texto cortado no final preservado como no original, mas incompleto., 'forces of colour' traduzido literalmente como 'forças de cor', que pode soar menos natural em PT., 'in its rear' como 'em suas costas' é aceitável, mas 'retaguarda' seria mais preciso no contexto., 'down into its abysses' como 'descer a seus abismos' ligeiramente awkward; 'para dentro de seus abismos' seria melhor.
+
+Página 171:
+  Status: completed
+  Score: 94.0
+  Erros: Inversão na ordem do título ('THE WHITE WORLD-REVOLUTION' para 'A REVOLUÇÃO MUNDIAL BRANCA'), podendo alterar ênfase semântica., Adição inferida de 'workers' ('trabalhadores') no final, baseada em correção OCR, mas não explícita no OCR original., Pequenas quebras de linha ligeiramente alteradas na tradução.
+
+Página 172:
+  Status: completed
+  Score: 93.0
+  Erros: Erro de concordância de gênero: 'pelo qual' (2x) deve ser 'pela qual' pois 'moeda' é feminina., Número da página corrigido de '177' para '172', mas original OCR tinha '177'; assume-se correção contextual válida., Texto cortado no final, mas preservado fielmente.
+
+Página 173:
+  Status: completed
+  Score: 94.0
+  Erros: 'repita-se novamente' soa ligeiramente redundante para 'again be it said', Adaptação no final ('uma fortaleza se o') pode ser uma extensão além do snippet, embora fiel ao corrigido
+
+Página 174:
+  Status: completed
+  Score: 83.0
+  Erros: Deixou 'ruthlessness' em inglês na tradução, quebrando a fluência e precisão., Texto cortado abruptamente no final, similar ao original., 'sobreviverá ao meio' é literal mas soa pouco natural em PT-BR., 'em toda a sua essência' é uma interpretação idiomática de 'all over', levemente livre., Falta de vírgula ou ajuste em 'impiedosa ruthlessness histórica'.
+
+Página 175:
+  Status: completed
+  Score: 90.0
+  Erros: Adição de conteúdo no final ('O fim só estará à vista quando a relação se...') não presente no texto original incompleto., Título 'A REVOLUÇÃO MUNDIAL BRANCA' altera ligeiramente a ênfase e estrutura maiúscula do original., 'Vasos de alto sucesso' é literal para 'vessels', mas pode soar estranho sem contexto filosófico., 'Tremendo duelo' é preciso, mas 'tremendo' pode evocar tremor em vez de 'tremendous' (enorme).
+
+Página 176:
+  Status: completed
+  Score: 88.0
+  Erros: Final da tradução impreciso: 'buscam um meio-termo conci...' não corresponde ao 'seek a ...' do original corrigido, sugerindo adição ou suposição errada., Literalidade excessiva em 'Continente Oeste-Europeu', que soa menos natural que 'Europa Ocidental'., 'Não possui mais nenhum “partido”' é ligeiramente redundante; 'não tem mais partido' seria mais conciso., Texto cortado abruptamente na tradução, espelhando o original, mas com interpretação errônea.
+
+Página 177:
+  Status: completed
+  Score: 91.0
+  Erros: Título 'THE WHITE WORLD-REVOLUTION' traduzido literalmente como 'A REVOLUÇÃO MUNDIAL BRANCA', que pode soar estranho ou impreciso sem contexto específico (possível referência ideológica), 'counter-party' como 'contra-partido' é literal mas não idiomático em português filosófico, 'stateless world' como 'mundo sem Estados' é aceitável mas poderia ser 'mundo sem estado' para maior precisão anárquica, Texto cortado abruptamente em 'histór...' em vez de 'história', Pequenas quebras de linha alteradas ligeiramente
+
+Página 178:
+  Status: completed
+  Score: 93.0
+  Erros: Texto incompleto na tradução, espelhando o original corrigido ('which th...' e 'ala esq...'), Quebra de linha em 'ala esq...' abrupta, mas fiel ao corte do original
+
+Página 179:
+  Status: completed
+  Score: 92.0
+  Erros: Texto cortado no final em original e tradução, limitando avaliação completa., 'hair-splitting rhetoric' traduzido como 'retórica sofística', adequado mas poderia ser mais preciso com 'retórica casuística'., Título 'THE WHITE WORLD-REVOLUTION' como 'A REVOLUÇÃO MUNDIAL BRANCA' fiel, mas 'White' pode requerer contexto histórico/político (ex.: Spengler).
+
+Página 180:
+  Status: completed
+  Score: 95.0
+  Erros: Leve redundância em 'evidente por si só', que poderia ser mais conciso; 'self-evident' é idiomático em inglês, Final cortado de forma consistente, mas incompleto
+
+Página 181:
+  Status: completed
+  Score: 73.0
+  Erros: Final da frase inventado/errado: 'elaboração executiva por incapacid...' não corresponde a 'executive worki...' do corrigido., 'revolução de baixo para cima' altera o sentido; original é 'from below' (revolução de baixo/das massas)., 'homens de baixo' soa vulgar/inadequado; contexto filosófico/político sugere 'das classes baixas' ou 'plebeus'., 'participada em grande parte' é gramaticalmente estranho e pouco fluente., Alguns termos como 'world-revolution' traduzidos diretamente, mas sem nuance histórica/filosófica.
+
+Página 182:
+  Status: completed
+  Score: 94.0
+  Erros: Leve perda de paralelismo na frase da ditadura: 'against all parties, and, most of all, above his own' traduzido sem repetir a ideia de oposição explicitamente., 'no ápice e no entanto impotente' é correto mas soa ligeiramente abrupto em PT., Última frase cortada segue o original, mas 'implacavelmente e ...' omite 'without thanks' explicitamente.
+
+Página 183:
+  Status: completed
+  Score: 94.0
+  Erros: 'mass-wise' traduzido como 'em massa', que captura o sentido mas soa ligeiramente forçado; poderia ser mais idiomático., Final cortado em 'Gue...', refletindo o original corrigido, mas incompleto ('Guerra dos Sete Anos')., Título traduzido diretamente, mas em contextos spenglerianos poderia manter 'White World-Revolution' com tradução ao lado para precisão acadêmica.
+
+Página 184:
+  Status: completed
+  Score: 90.0
+  Erros: Tradução incompleta: omite a frase final 'It is the contrary of Prussian feeling, w...' presente no texto corrigido., 'thinking from below' traduzido como 'pensamento de baixo para cima', o que adiciona 'para cima' não explícito no original, podendo alterar o sentido de pensamento materialista/base., 'shallow-minded' como 'superficiais' é aceitável mas menos preciso; sugere superficialidade geral em vez de superficialidade mental., 'Labour Socialism' como 'Socialismo do Trabalho' é literal, mas 'socialismo operário' seria mais convencional em contextos filosóficos.
+
+Página 185:
+  Status: completed
+  Score: 91.0
+  Erros: 'Imes' corrigido corretamente para 'mines', mas texto permanece incompleto como no original., 'woik a...' ajustado para 'work actua...', assumindo correção parcial., Frase longa com hífen em 'finance-Socialism' bem traduzida, mas 'controla-os' soa ligeiramente forçado., Texto cortado no final ('não re...') idêntico ao original.
+
+Página 186:
+  Status: completed
+  Score: 92.0
+  Erros: 'o forçar' soa ligeiramente forçado e menos natural em português moderno, tradução cortada abruptamente como no original corrigido, mas sem completude, pequena inconsistência na quebra de linha em 'prussiano é,'
+
+Página 187:
+  Status: completed
+  Score: 93.0
+  Erros: Texto incompleto no final, espelhando o original mas cortado em 'repub...'; 'elsewhere' traduzido como 'em qualquer outro lugar', que soa ligeiramente impreciso; título 'THE WHITE WORLD-REVOLUTION' como 'A REVOLUÇÃO MUNDIAL BRANCA' pode ser literal mas contextualizar melhor como 'A Revolução do Mundo Branco' em filosofia política
+
+Página 188:
+  Status: completed
+  Score: 93.0
+  Erros: Correção OCR boa, mas texto ainda cortado em 'high fi...', inferido como 'high finance', 'so noisily in evidence' traduzido como 'tão ruidoso na Questão Dreyfus' – ligeira perda de nuance ('in evidence'), 'Rising of the English' mantido como 'A ascensão dos ingleses', mas contexto spengleriano pode sugerir 'auge' ou 'apogeu'
+
+Página 189:
+  Status: completed
+  Score: 93.0
+  Erros: Título com ordem invertida ('REVOLUÇÃO MUNDIAL BRANCA' soa menos idiomático que 'Revolução Branca Mundial'), Texto incompleto no final preservado, mas poderia indicar elipse, Capitalização inconsistente no título traduzido
+
+Página 190:
+  Status: completed
+  Score: 95.0
+  Erros: Asterisco em 'have*' mantido no texto corrigido e tradução, presumindo nota de rodapé., 'stepping back into the whole of the nation' traduzido como 'retrocedendo para o todo', que é fiel mas ligeiramente abstrato.
+
+Página 191:
+  Status: completed
+  Score: 77.0
+  Erros: Título traduzido incorretamente como 'A REVOLUÇÃO MUNDI-AL BRANCA', mantendo hífen estranho e ordem inadequada; deveria refletir 'The White World-Revolution' como 'A Revolução do Mundo Branco'., 'literariness' traduzido como 'literatice', termo inexistente; correto é 'literariedade'., Frase inicial 'was individualism that was the mode' traduzida literalmente como 'era o individualismo que era o modo', perdendo naturalidade sem alterar sentido., 'Lack of intelligence is not quite a good enough weapon wherewith to defeat Rationalism' renderizado com redundância e awkwardness: 'não é bem uma arma suficientemente boa com a qual derrotar'., Adição de conteúdo não presente no texto corrigido: 'que tomam o campo contra a liberdade' na última frase., Estrutura do título preservada mas com formatação ruim (hífen em 'MUNDI-AL').
+
+Página 192:
+  Status: completed
+  Score: 88.0
+  Erros: Final da frase adiciona 'era seu destino. Toda ...' não presente no texto corrigido ('The strong, unbending “I” was...'), comprometendo fidelidade, 'livingly experienced' traduzido como 'vivenciaram de forma viva', ligeiramente redundante e não captura perfeitamente o advérbio arcaico, 'go up in God or the All' como 'se elevar em Deus ou no Todo' é aproximado, mas em contexto místico poderia ser mais preciso como 'dissolver-se em Deus', 'anti-egoism' como 'antiegoísmo' é aceitável, mas 'anti-egoísmo' é grafia mais padrão em PT-BR acadêmico
+
+Página 193:
+  Status: completed
+  Score: 92.0
+  Erros: Título 'A REVOLUÇÃO MUNDIAL BRANCA' soa estranho e potencialmente impreciso para contexto filosófico (possível termo spengleriano), 'de outro âmbito' deveria ser 'de outro aspecto' para maior fidelidade, 'toda a sua obra' deveria ser 'todas as suas obras' para precisão, Final 'por um eco do espa...' não corresponde exatamente a 'yearning for an...' no texto corrigido, ‘I’s’ traduzido como ‘eu’ sem preservar conotação possessiva ou maiúscula filosófica
+
+Página 194:
+  Status: completed
+  Score: 93.0
+  Erros: Texto incompleto preservado fielmente, mas corta em 'co...' (igual ao original)., 'Realization of this' traduzido como 'percepção disto', que é aceitável mas poderia ser mais preciso como 'consciência desta realidade'., 'Takes his stand' como 'se firma' é bom, mas ligeiramente menos enfático que 'toma posição'., Formatação preserva quebras, mas título em maiúsculas não totalmente espelhado.
+
+Página 195:
+  Status: completed
+  Score: 95.0
+  Erros: Título traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA', invertendo a ordem natural em português; poderia ser mais idiomático., Quebra de linha após 'educador' imita o original corrigido, mas em PT poderia ser ajustada para fluidez., 'fermenting world' como 'mundo em efervescência' é aceitável, mas 'fervilhante' ou 'em fermentação' seria mais preciso.
+
+Página 196:
+  Status: completed
+  Score: 94.0
+  Erros: Título 'COLOURED WORLD-REVOLUTION' traduzido diretamente como 'REVOLUÇÃO MUNDIAL COLORIDA', mas 'coloured' tem conotação racial que poderia ser explicitada como 'dos coloridos' ou 'dos povos de cor'., Frase original 'In both their real compass, their profundity, and their workings have so far escaped recognition' é gramaticalmente awkward; tradução assume 'elas' como sujeito das revoluções, o que é interpretativo mas fiel ao sentido., 'Race war' como 'guerra de raças' é aceitável, mas 'guerra racial' é mais idiomático em contextos filosóficos.
+
+Página 197:
+  Status: completed
+  Score: 96.0
+  Erros: 'secret contempt' traduzido como 'segredo desprezo', invertendo a ordem natural em português (deveria ser 'desprezo secreto'), Texto truncado no final preservado fielmente, mas 'w...' para 'g...' sugere possível erro menor na suposição do corte, 'scoffingly analysed' como 'escarnecidamente analisada' é preciso, mas ligeiramente arcaico
+
+Página 198:
+  Status: completed
+  Score: 94.0
+  Erros: 'Gallic races' traduzido como 'raças galas', que soa inadequado; termo histórico padrão em PT é 'povos gálios' ou 'tribos gálicas'., Inconsistência pronominal menor: 'elas' para raças (fem.) e 'eles' para celtas (masc.), mas original usa 'they' neutro., Texto incompleto ('heleniza...') preservado, mas poderia indicar elipse clara.
+
+Página 199:
+  Status: completed
+  Score: 90.0
+  Erros: Final da tradução incompleto e impreciso: 'assalto c...' não corresponde fielmente a 'Celtic-Ge...' (provavelmente referência a invasões celtas ou cimbrias)., Título 'THE COLOURED WORLD-REVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL COLORIDA', direto mas sem contexto histórico específico (ex.: Spengler)., 'plebe rural romana' para 'Roman peasantry' é aceitável, mas 'plebe' evoca mais classe urbana., Frase inicial em minúscula após título, embora preserve estrutura original fragmentada.
+
+Página 200:
+  Status: completed
+  Score: 92.0
+  Erros: Adição de 'atual' no final da tradução ('A posição do atual'), não presente no texto corrigido ('The position of t...'), Numeração da página alterada de '207' para '200' sem evidência clara de erro de OCR no número, Capitalização de 'Civilization' preservada, mas poderia ser padronizada em minúscula em contextos filosóficos brasileiros
+
+Página 201:
+  Status: completed
+  Score: 93.0
+  Erros: Título 'COLOURED WORLD-REVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL COLORIDA', mas 'coloured' tem conotação racial específica (não-brancos), poderia ser 'das Cores' ou 'das Raças Coloridas' para maior precisão filosófica., 'pay back the white peoples' como 'pagar aos povos brancos por' é literal, mas contexto de vingança sugere 'vingar-se' ou 'retribuir'., Texto truncado no final preservado, mas 'become As...' inferido como 'asiática de novo', assumindo 'Asiatic'., Frase inicial 'Turkey...' abrupta em ambos, sem contexto anterior.
+
+Página 202:
+  Status: completed
+  Score: 91.0
+  Erros: Texto cortado no final igual ao original ('fu...' em vez de completar 'fundamentalmente sua visão de...'), 'Haiti' sem acento (deve ser 'Haití'), Frase inicial começa abruptamente sem contexto anterior, mas fiel ao trecho fornecido, 'tomassem conhecimento' é correto mas um pouco arcaico; 'conhecessem' poderia ser mais direto
+
+Página 203:
+  Status: completed
+  Score: 92.0
+  Erros: OCR '21h]' corrigido para '203' assumido correto, mas não explícito., 'run wild' traduzido como 'deixados ao abandono', levemente impreciso (sugere abandono total, não crescimento selvagem)., 'live-stock' como 'rebanho' ok, mas contexto agrícola sugere 'gado'., Corte no final mantido, mas original corrigido inclui 'Africa, Americ...', tradução para 'Ásia Meridion...' consistente com OCR., Hífen em 'abun-dante' preservado na formatação, mas estrutura de parágrafo ligeiramente alterada nas quebras.
+
+Página 204:
+  Status: completed
+  Score: 93.0
+  Erros: Título 'THE COLOURED WORLD-REVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL COLORIDA', adicionando artigo desnecessário e possivelmente suavizando 'coloured' (raças não-brancas)., Frase inicial 'e ação insana' é abrupta como fragmento original, mas poderia contextualizar melhor., Final incompleto ('closer to the e...' / 'dos m...') preservado, mas revela possível erro residual no OCR ('e' para 'Europeans'?)., 'spile' corrigido implicitamente para 'spite', mas não explicitado.
+
+Página 205:
+  Status: completed
+  Score: 95.0
+  Erros: Frase da Doutrina Monroe mantém ambiguidade do original ('pointed towards... would have been wiped out'), mas poderia ser ligeiramente ajustada para clareza sem alterar sentido., Tradução de 'Coloured, racial Revolution' como 'Revolução racial das raças de cor' é literal, mas soa redundante; 'Revolução racial colorida' é comum em edições de Spengler.
+
+Página 206:
+  Status: completed
+  Score: 92.0
+  Erros: Adição não fiel no final da tradução ('encontrou-o n...') que não corresponde ao texto corrigido., Tradução de 'Coloured World-Revolution' como 'Revolução Mundial Colorida' é aceitável, mas poderia ser mais precisa como 'Revolução Mundial das Cores' no contexto spengleriano., 'the Coloured one' reduzido a 'a colorida' (minúscula), perdendo alguma ênfase., Ponto após 'the .higher schools' no OCR foi bem corrigido, mas tradução assume contexto completo.
+
+Página 207:
+  Status: completed
+  Score: 95.0
+  Erros: Fragmento inicial 'breeds' traduzido como 'gera' soa ligeiramente abrupto sem contexto anterior, embora fiel., Texto incompleto preservado, mas OCR original tinha 'Chili’s' corrigido corretamente para 'Chile’s'.
+
+Página 208:
+  Status: completed
+  Score: 85.0
+  Erros: Falta de pontuação após 'pecaminosa', resultando em 'pecaminosa ara' que parece erro de digitação ou junção., Erro no tempo verbal: 'amanhã erguia-se uma mesquita' usa imperfeito; original tem 'stands' (presente para futuro hipotético)., Frase inicial abrupta ('doutrina ... ara o solo'), faltando sujeito implícito do contexto anterior, mas fiel ao fragmento., Título 'A REVOLUÇÃO MUNDIAL DOS COLORIDOS' fiel, mas 'Coloridos' pode soar datado ou pejorativo em PT moderno., Texto incompleto preservado, mas corte abrupto em 'apen...'.
+
+Página 209:
+  Status: completed
+  Score: 90.0
+  Erros: Início da tradução em minúscula ('motim'), desconsiderando possível estrutura de frase do original., Final cortado e incompleto ('sobe...'), não alinhado perfeitamente com o texto corrigido., 'Lançar fora o jugo branco' é literal, mas ligeiramente awkward em português., 'Em toda parte' poderia ser mais idiomático como 'por toda parte'.
+
+Página 210:
+  Status: completed
+  Score: 93.0
+  Erros: Primeira frase da tradução ('brilho que resta') parece incompleta, refletindo o texto truncado do original, mas poderia ser ajustada para melhor contexto se anterior disponível., Título 'THE COLOURED WORLD-REVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL COLORIDA'; 'coloured' pode implicar 'multirracial' ou 'colorida' em sentido político, mas tradução direta é aceitável., 'rushes over it' traduzido como 'irrompe sobre ela', ligeiramente mais intenso que o original., Texto truncado no final mantido fielmente, mas sem indicação de continuação.
+
+Página 211:
+  Status: completed
+  Score: 92.0
+  Erros: Texto corrigido ainda retém hífen em 'men-tion', não totalmente limpo., Final incompleto ('world po...') traduzido como 'política mundial', assumindo complemento não explícito.
+
+Página 212:
+  Status: completed
+  Score: 88.0
+  Erros: Título 'THE COLOURED WORLD-REVOLUTION' traduzido literalmente como 'A REVOLUÇÃO MUNDIAL COLORIDA', o que pode soar estranho ou impreciso sem contexto; considerar 'A Revolução do Mundo Colorido'., Primeira frase 'deeds beyond his death into the future and enhance them' traduzida como 'feitos além de sua morte para o futuro e engrandecê-los', soando incompleta ou awkward, possivelmente faltando 'project his' no original., Adição de 'Por essa razão a ideia de ...' segue o corrigido, mas garante fidelidade.
+
+Página 213:
+  Status: completed
+  Score: 94.0
+  Erros: Título 'THE COLOURED WORLD-REVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL DAS CORES' é literal, mas soa pouco idiomático em português filosófico; contexto spengleriano sugere ênfase racial ('raças coloridas')., Texto incompleto no final preservado, mas origina imprecisão., 'every grade' como 'todos os graus' é aceitável, mas poderia ser 'todas as camadas sociais' para maior precisão.
+
+Página 214:
+  Status: completed
+  Score: 87.0
+  Erros: 'strong stock' traduzido como 'forte tronco', que evoca imagem arbórea em vez de linhagem racial/biológica; contexto spengleriano sugere 'linhagem forte' ou 'estoque forte'., Frase principal longa ('Prússia... torna-se impossível') é precisa mas densa; poderia ser ligeiramente reestruturada para clareza sem alterar sentido., 'Life’s selection' como 'seleção da vida' é aceitável, mas 'seleção vital' seria mais idiomático em filosofia., Texto cortado abruptamente no final, igual ao original.
+
+Página 215:
+  Status: completed
+  Score: 94.0
+  Erros: 'Sangue bom' soa literal e menos idiomático em português filosófico, Tradução adiciona 'que haviam pa...' assumindo continuação não explicitada no OCR/corrigido, o que pode introduzir imprecisão,  'Estreitos' é aceitável mas 'angustos' poderia capturar melhor 'narrow' no sentido mental
+
+Página 216:
+  Status: completed
+  Score: 83.0
+  Erros: Erro gramatical grave: 'uma camponeses superiores' (plural incorreto e falta de concordância; original é 'a superior peasantry'), Título 'A REVOLUÇÃO MUNDIAL COLORIDA' pode não capturar plenamente a conotação histórica/racial de 'Coloured' em contexto spengleriano, 'ao serviço em pequenas cortes, em pequenos exércitos' soa ligeiramente forçado; preposição 'to service' não é perfeitamente renderizada, Texto cortado de forma similar ao original, mas sem indicação clara de continuação
+
+Página 217:
+  Status: completed
+  Score: 95.0
+  Erros: 'Negro dancing' traduzido como 'dança negra', que é aceitável mas poderia ser 'dança negra' ou 'dança do negro' para maior clareza; 'for all I care' como 'por mim' é idiomático mas ligeiramente coloquial para texto acadêmico.
+
+Página 218:
+  Status: completed
+  Score: 93.0
+  Erros: Título 'A REVOLUÇÃO MUNDIAL DOS COLOREADOS' é literal, mas 'coloreados' pode soar datado ou pejorativo em contexto filosófico; 'colorida' ou 'dos povos de cor' seria mais neutro., Texto incompleto no final ('— d...') preservado, mas sem indicação de continuação., Maiúsculas em 'Revoluções' mantidas, mas consistência com original.
+
+Página 219:
+  Status: completed
+  Score: 95.0
+  Erros: 'estão entrando elas mesmas' soa ligeiramente redundante e menos natural; melhor 'estão elas mesmas entrando', Final da tradução ('novas formas imprevisíveis, e me...') infere 'unforeseen' como 'imprevisíveis', mas adiciona 'e me...' sem base no OCR fornecido, podendo alterar precisão, Uso de hífen em 'torner-se-á' é formal, mas consistente com português acadêmico
+
+Página 220:
+  Status: completed
+  Score: 94.0
+  Erros: Ordem de 'Annunzio, d’' alterada para 'd’Annunzio', Número de página de 'Assyrians' aparece cortado como '21...' em vez de '218', 'Standing army' traduzido como 'permanente', aceitável mas 'em pé' é termo mais preciso em contextos militares históricos, Quebras de linha no texto corrigido ainda mostram hífen em 'con-servatism', refletido na tradução
+
+Página 221:
+  Status: completed
+  Score: 91.0
+  Erros: 'Baatarnse' não corrigido, provável erro OCR persistente, Hífens de quebra de linha mantidos em 'tri-unfo', Final abreviado como 'e ...' sem especificar 'Amer...' do corrigido
+
+Página 222:
+  Status: completed
+  Score: 82.0
+  Erros: Imprecisão em 'rises from heritage of Alexander' traduzido como 'surgimento da herança de Alexandre', que altera o sentido (deveria sugerir ressurgimento ou elevação a partir da herança), 'protectorate for' como 'protetorado para' soa estranho e pouco natural; contexto sugere 'protetorado sobre' ou similar, 'white, undermined' como 'brancos, minados' é literal mas perde nuance; 'undermined' melhor como 'socavados' ou 'erosionados' em contexto filosófico, 'Nordic world-feeling' como 'sensação de mundo nórdico' é aceitável mas poderia ser mais preciso como 'sentimento nórdico de mundo', Texto cortado no final mantido, mas índice parece incompleto
+
+Página 223:
+  Status: completed
+  Score: 92.0
+  Erros: Texto corrigido adiciona 'ruli...' não presente no OCR original, potencial erro., Tradução incompleta: omite 'em, 222-3; immigration in, 223;' e possível continuação., 'usa raças coloridas contra a branca' é fiel mas soa incompleto; 'white' refere-se à raça branca., Quebras de linha levemente alteradas em alguns pontos.
+
+Página 224:
+  Status: completed
+  Score: 92.0
+  Erros: Correção de '5t' para '51' bem feita, mas texto cortado no final como no original, Ordem invertida em 'Bolchevismo Católico' (original 'Catholic Bolshevism') ligeiramente menos direta
+
+Página 225:
+  Status: completed
+  Score: 92.0
+  Erros: Correção de OCR boa, mas 'Vi] cured”' para 'Vicious” world' é uma suposição plausível, não perfeita., 'Índios, Americanos' com vírgula e maiúsculas separadas soa pouco natural., 'Revolução Colorida' em vez de 'Revoluções Coloridas' (plural no original)., 'Irã, Oriental' pode ser impreciso; contexto sugere 'Iran, Eastern'., Texto cortado no final preservado, mas incompleto.
+
+Página 226:
+  Status: completed
+  Score: 92.0
+  Erros: Erro na transcrição da página de 'Meyer, Eduard': '119, 20...' em vez de '119, 206'., 'Marseille' não adaptado para 'Marselha', comum em português., 'Maiduk' mantido inalterado, possivelmente erro remanescente (ex: 'Maududi'?).
+
+Página 227:
+  Status: completed
+  Score: 92.0
+  Erros: Preservação de hífens desnecessários do OCR em alguns termos como 'mi-grations', 'world-feeling' traduzido como 'sensação de mundo', que pode não capturar nuance filosófica exata (possível 'Weltgefühl'), Nuremberg sem acento ou forma portuguesa padrão ('Nuremberga' em alguns contextos), 'Pandus' mantido sem verificação, possível erro próprio, Texto incompleto no final preservado, mas Paris cortado como 'Par...'
+
+Página 228:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução incompleta no final ('Sentin...' em vez de traduzir 'Sentinum, battle of, 206 Sertorius,...'), Alguns nomes próprios adaptados corretamente, mas 'Samnites' como 'Samnitas' pode ser 'samnitas' em contextos PT padrão, Corte abrupto afeta fidelidade ao texto corrigido
+
+Página 229:
+  Status: completed
+  Score: 82.0
+  Erros: Erros de OCR persistentes: 'col- oured', 'birth- rate' não corrigidos no texto corrigido., 'Spain: d...' parece incompleto ou incorreto (original 'Spain;...')., 'antindividualistas' sem hífen, deveria ser 'anti-individualistas'., 'trabalho branco e de cor ali' soa pouco natural; 'ali' é coloquial para índice acadêmico., Inconsistência menor em pontuação e quebras de linha.
+
+Página 230:
+  Status: completed
+  Score: 92.0
+  Erros: Texto corrigido ainda retém fragmentos de OCR como 'ac-tivity' e 'weari-ness', não totalmente limpos., Tradução incompleta no final, cortando após '211; ...', enquanto o corrigido vai até 'white nat...'., 'Culto da' soa ligeiramente awkward; melhor 'culto à' em contexto abreviado., 'Jornada de trabalho, duração da' inverte ordem natural em PT.
+
+Página 231:
+  Status: completed
+  Score: 94.0
+  Erros: Tradução incompleta na última frase ('mais de 100...' em vez de completar com '000 exemplares na Alemanha...'), Inconsistência na tradução de nomes de cidades: 'London' para 'Londres', mas 'Cape Town', 'Sydney' etc. mantidos em inglês
