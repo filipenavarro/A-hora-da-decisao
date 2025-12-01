@@ -15,3 +15,5 @@ Para a tradução e correção do ocr foi usado um script python agentic (multip
 Obs: O texto contém problemas de numeração das páginas e não está perfeita a tradução (exige correção), porém está o mais fiel o possivel a obra original.
 
 Fonte do livro: https://ia601400.us.archive.org/34/items/in.ernet.dli.2015.503389/2015.503389.hour-of.pdf
+
+- Versão traduzida do alemão (menor qualidade) na pasta output_alemão seguindo a mesma estrutura da versão inglesa.
