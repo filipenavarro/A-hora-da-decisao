@@ -1,0 +1,683 @@
+RELATÓRIO DE QUALIDADE
+================================================================================
+
+Provider usado: XAI
+Modelo: grok-4-1-fast-non-reasoning
+
+Score médio: 82.0/100
+
+Páginas processadas: 134
+Páginas com erro: 0
+
+DETALHES POR PÁGINA:
+--------------------------------------------------------------------------------
+
+Página 1:
+  Status: completed
+  Score: 82.0
+  Erros: Frase truncada na tradução ('sobretudo os pe...') sem indicação clara de continuação, Estrutura sintática alemã não preservada: 'sich mit der kommenden Erschütterung vor ausschauend befaßt' traduzido de forma pouco natural como 'se ocupa, à espreita, com a Erschütterung vinda', 'Erschütterung' mantido em alemão em vez de traduzido para 'sacudida' ou 'perturbação'
+
+Página 3:
+  Status: completed
+  Score: 88.0
+  Erros: Títulos alemães mantidos sem tradução ('Das Heilige', 'Morphologie des Luthertums'), Tradução da citação não totalmente fiel: 'epochemachend' → 'epocal no sentido da história da ciência' (melhor: 'epocal no sentido historiográfico da ciência'), 'wissenschaftsgeschichtlichen' é 'história da ciência/ciências', mas contexto filosófico pede 'história das ciências' ou 'historiografia científica'
+
+Página 4:
+  Status: completed
+  Score: 88.0
+  Erros: "Paz ou Guerra Atômica" impreciso; original é "Friede oder Atomkrieg" (Paz ou Guerra Atômica), "Brochado em inglês" equivocado; "Englisch broschiert" significa brochura com texto em inglês, Adição não autorizada: "da tiragem total, 101 páginas" no último item
+
+Página 5:
+  Status: completed
+  Score: 82.0
+  Erros: Tradução de 'warnende, leitende Kritik' como 'Advertência, crítica diretiva' é imprecisa; deveria ser 'crítica advertidora, diretiva', 'Bewußtheit' traduzido como 'consciência', mas contexto sugere 'consciência histórica' ou 'consciência de época', 'schelten oder schmeicheln' melhor como 'vituperar ou adular' do que 'censurar nem bajular'
+
+Página 6:
+  Status: completed
+  Score: 72.0
+  Erros: O texto alemão corrigido foi incluído na tradução sem traduzir a primeira linha, "mal compreendidos" é impreciso para "kaum begriffen" (deve ser "mal compreendidos" ou "apenas esboçados"), "mal começou" soa estranho; deveria ser "acabou de começar"
+
+Página 7:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução de 'Vätern' como 'pais' em vez de 'pais' ou 'ancestrais' (mais comum 'pais' ou 'antepassados'), 'Prosseguimento' para 'Fortwirken' é aceitável mas 'continuação' ou 'perduração' seria mais preciso, 'Delineara' para 'gezeichnet hatte' é literal demais; 'descrevera' ou 'caracterizara' seria melhor
+
+Página 8:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução incompleta: termina abruptamente em 'Não a tomada do pod...', sem concluir a frase sobre o título., 'pus-me a elaborá-lo' poderia ser mais preciso como 'comecei a elaborá-lo' ou 'dediquei-me à elaboração', pois 'pus-me' soa ligeiramente arcaico., 'A 3 de janeiro' deveria ser 'Em 3 de janeiro' para maior fluência em português brasileiro moderno.
+
+Página 9:
+  Status: completed
+  Score: 72.0
+  Erros: Frase inicial truncada e com ordem invertida ('o problema mais importante justamente para nós ver') não corresponde ao sentido do original, que parece iniciar com 'Wenn wir das wichtigste Problem...' ou similar., Fluência baixa devido a construções literais e não idiomáticas ('vai o Destino impiedosamente sobre nós adiante'; 'politicamente mundial hoje o mais importante continente terrestre')., Estrutura simplificada excessivamente, perdendo a complexidade retórica alemã com frases longas e encadeadas.
+
+Página 10:
+  Status: completed
+  Score: 82.0
+  Erros: OCR: '1 zf%' corrigido para '12½%' (boa correção, mas 'i3o' para '130' poderia ser mais explícito), Tradução: 'die weiße Wirtschaft' como 'economia branca' é literal demais; contexto sugere 'economia liberal/branca' ou 'capitalismo tradicional', Frase 'O colapso da Guerra Mundial não provocado, mas apenas não mais detido' é confusa e não fiel à estrutura original
+
+Página 11:
+  Status: completed
+  Score: 72.0
+  Erros: OCR corrigido bem, mas 'Strophen' mantido como 'estrofes' na tradução sem contexto claro (possível erro não detectado; pode ser 'Stufen' ou 'Schritte'), Inexatidões: 'Sturm der Tatsachen' = 'tempestade de fatos', não 'temporal dos fatos'; 'geräuschvolle Flachheit' = 'planície ruidosa/superficialidade barulhenta', não 'planura ruidosa', Adição indevida de 'o Terceiro Reich ou o Estado Soviético' não presente no original corrigido
+
+Página 12:
+  Status: completed
+  Score: 72.0
+  Erros: OCR: 'Fen Kaiser' não corrigido para 'Fenster' ou 'Von Kaiser'; permanece incorreto., Tradução: 'Fen o Kaiser com seu olhar' é infiel e sem sentido; ignora estrutura original., 'patrí[zí]as' é erro de digitação ou OCR não resolvido; deveria ser 'pátrias pequenas'.
+
+Página 13:
+  Status: completed
+  Score: 82.0
+  Erros: OCR corrigido perfeitamente, mas texto incompleto (falta continuidade após 'Bauerntum'), "dela" impreciso: refere-se a "Angst", não "Wirklichkeit" diretamente, "homem tardio das altas Culturas" pouco natural; maiúscula em "Culturas" inadequada em PT
+
+Página 14:
+  Status: completed
+  Score: 88.0
+  Erros: OCR: 'Yom' corrigido corretamente para 'vom', mas 'unwide' para 'unwider' poderia ser 'unwiderstehlich' (truncado);, 'acaso sem sentido' deveria ser plural 'acasos sem sentido' para fiel ao 'Zufall' no contexto;, 'irrevogavelmente nascido' é interpretação criativa; original truncado sugere 'unwiderstehlich eingebunden' ou similar, não explicitamente 'nascido';
+
+Página 15:
+  Status: completed
+  Score: 82.0
+  Erros: O texto alemão original (tanto OCR quanto corrigido) foi mantido no início da tradução, em vez de ser traduzido para o português., Erro de digitação: 'pelo resistência' deve ser 'pela resistência'., 'sabe-tudo' é coloquial para 'Besserwisser'; termo mais preciso seria 'sabe-tudo' ou 'pretensos sábios'.
+
+Página 16:
+  Status: completed
+  Score: 88.0
+  Erros: OCR corrigido perfeitamente, sem erros residuais., 'beschränkt' traduzido como 'está limitado' é semanticamente vago; deveria ser 'limitado' ou 'de visão restrita'., 'Kontoren' traduzido como 'contadores' é incorreto; significa 'escritórios comerciais'.
+
+Página 17:
+  Status: completed
+  Score: 88.0
+  Erros: Maiúscula inadequada em 'Guerras de Libertação' (deve ser 'guerras de libertação'), 'técnica' em vez de 'técnica' ou 'tecnologia' para Technik (contexto filosófico sugere 'técnica'), 'Destino' com maiúscula desnecessária para Schicksal
+
+Página 18:
+  Status: completed
+  Score: 82.0
+  Erros: Adição indevida de 'ferrovias e Zollverein' no final, ausente no original fornecido, 'vestidos antigo-alemães' impreciso para 'altdeutschen Rocken' (melhor 'fraques' ou 'sobretudos antigo-alemães'), 'fazer uso diplomática e bem-sucedido' gramaticalmente incorreto (deve ser 'diplomaticamente bem-sucedido')
+
+Página 19:
+  Status: completed
+  Score: 82.0
+  Erros: Termos alemães 'bürgerlich' e 'plebejisch' mantidos sem tradução, quebrando fluidez., 'Kelierfenster' corrigido corretamente para 'Kellerfenster', mas 'Literatencafe' para 'Literatencafé' é aceitável., 'o edifício' é tradução errada de 'Aufbau' (construção/edificação no sentido figurado); deveria ser 'construção' ou 'edificação'.
+
+Página 20:
+  Status: completed
+  Score: 72.0
+  Erros: Falta o sujeito 'para' no início da tradução ('para müden Seelen'), 'das almas cansadas' deve ser 'para as almas cansadas', 'não suportam o olhar sobre a realidade' é impreciso; melhor 'não suportam o olhar para a realidade'
+
+Página 21:
+  Status: completed
+  Score: 88.0
+  Erros: Ordem sintática alterada na frase principal, invertendo o fluxo lógico do original, 'guerra franco-alemã' deveria ser 'guerra alemão-francesa' para fidelidade ao original 'deutsch-französischen Krieg', 'vê-la falsamente' é literal demais; 'vê-la de forma errônea' ou 'interpretá-la erroneamente' seria mais idiomático
+
+Página 22:
+  Status: completed
+  Score: 82.0
+  Erros: OCR corrigido quase perfeitamente, mas 'Chor der ver...' poderia ser 'Chor der Verzärtelung...' ou similar, "rungen" não traduzido (deveria ser parte de 'Forderungen'), "Este paz" é erro gramatical (deve ser "Esta paz")
+
+Página 23:
+  Status: completed
+  Score: 92.0
+  Erros: Título invertido: 'DER POLITISCHE HORIZONT' deve ser 'O horizonte político', não 'O Horizonte Político', 'um so kleiner' traduzido como 'quanto menores' sem contexto claro do início da frase anterior, 'vom Ausgang' melhor como 'do fim' ou 'do desfecho' em vez de 'do desfecho'
+
+Página 24:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução incompleta no final ('do pe...' em vez de completar a frase)., 'Posição' para 'Stellung' é aceitável mas 'Situação' ou 'Lugar' seriam mais naturais no contexto., 'Envelhecidas' para 'vergreisten' perde a conotação de 'caducas/enrijecidas'; 'caducas' ou 'enrugadas' seria melhor.
+
+Página 25:
+  Status: completed
+  Score: 88.0
+  Erros: Correção OCR: 'Sehl' corrigido implicitamente para 'Seht', mas não explicitado no texto corrigido., 'Tugendbolde' traduzido como 'virtuosos', mas termo pejorativo sugere 'fariseus da virtude' ou 'fanfarrões virtuosos'., 'Sozialethiker' como 'éticos sociais' é aceitável, mas 'eticistas sociais' ou 'moralistas sociais' seria mais preciso.
+
+Página 26:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução truncada no final ('sosl...' parece erro de OCR não corrigido adequadamente), 'concebida' poderia ser mais preciso como 'apreendida' ou 'enfrentada' para 'aufgefaßt', 'julrador' deveria ser 'juiz' ou 'avaliador' para melhor adequação filosófica a 'Beurteiler'
+
+Página 27:
+  Status: completed
+  Score: 92.0
+  Erros: «Encerramentos de paz» é literal demais para 'Friedensschlüsse'; melhor 'tratados de paz' ou 'conclusões de paz'., «Dissipação de vidas humanas» soa poético mas menos preciso que 'desperdício' ou 'esbanjamento' para 'Verschwendung'., «Aniquilar» é forte para 'vernichten'; 'destruir' ou 'aniquilar' funciona, mas 'derrubar' pode ser mais contextual.
+
+Página 28:
+  Status: completed
+  Score: 92.0
+  Erros: Título: 'OS GUERRAS MUNDIAIS' deve ser 'AS GUERRAS MUNDIAIS' (artigo incorreto)., 'Turkestão' deve ser 'do Turquestão' para melhor fluidez e precisão geográfica., 'canal de Suez' deve ser 'Canal de Suez' (maiúscula padrão).
+
+Página 29:
+  Status: completed
+  Score: 72.0
+  Erros: Erro grave em 'Steilfeuer-geschütze' traduzido como 'peças de fogo rasteiro' (incorreto; correto é 'tiro planante' ou 'tiro de arremesso elevado'), 'den Donner amerikanischer Kanonen' traduzido como 'o trovão das canhões americanas' (plural incorreto; deve ser 'das canhões americanos'), 'Havanna' deve ser 'Havana'
+
+Página 30:
+  Status: completed
+  Score: 72.0
+  Erros: Título traduzido incorretamente: 'DIE WELTKRIEGE UND WELTMÄCHTE' = 'Os Grandes Guerras Mundiais e as Potências Mundiais', não 'OS GUERREIROS MUNDIAIS' (guardiões, não guerras), 'verzehnfachen' significa 'multiplicar por dez', mas frase 'multiplicá-los por dez' é ambígua e imprecisa; deveria ser 'multiplicá-los dez vezes' ou 'aumentá-los dez vezes', 'Stoßkraft' = 'poder de choque' ou 'força de impacto', inadequado; melhor 'potência militar' ou 'capacidade ofensiva'
+
+Página 31:
+  Status: completed
+  Score: 88.0
+  Erros: OCR corrigido perfeitamente, sem erros residuais., "incréativa" é tradução literal de 'unschöpferische', mas soa pouco natural em PT; melhor 'não criativa' ou 'incapaz de criar'., "renúncia plena" para 'entsagungsvolle' é aproximado, mas 'cheio de renúncia/ascetismo' seria mais preciso.
+
+Página 32:
+  Status: completed
+  Score: 82.0
+  Erros: Título traduzido incorretamente como 'OS GUERRAS MUNDIAIS' (deve ser 'AS GUERRAS MUNDIAIS'), Frase inicial da tradução desconectada e sem sujeito claro, perdendo a referência ao contexto anterior, Estrutura sintática excessivamente simplificada, não preservando a complexidade da oração alemã subordinada
+
+Página 33:
+  Status: completed
+  Score: 92.0
+  Erros: OCR corrigido perfeitamente, sem erros residuais., Pequena imprecisão: 'tato' deveria ser 'tacto' ou 'fino trato' para melhor adequação filosófica; 'tato' soa mais sensorial., Estrutura simplificada: frases alemãs longas e subordinadas foram fragmentadas, perdendo alguma complexidade original.
+
+Página 34:
+  Status: completed
+  Score: 82.0
+  Erros: OCR não corrigido no início: 'dert.' permanece inalterado, Tradução truncada prematuramente ('Assim surge a „democraci...') não cobre todo o texto original, Estrutura simplificada excessivamente, perdendo complexidade sintática alemã
+
+Página 35:
+  Status: completed
+  Score: 82.0
+  Erros: OCR corrigido perfeitamente ('Staatshoheit' → 'Staatsgewalt'), Tradução adiciona 'completamente aos desejos e opiniõ...' que não está no original corrigido, introduzindo conteúdo inexistente, 'sentimento dominante' para 'Eindruck herrschend geworden' é aceitável mas 'impressão dominante' seria mais literal
+
+Página 36:
+  Status: completed
+  Score: 88.0
+  Erros: OCR: aspas alteradas de ,, para „ (correção adequada, mas incompleta no final), "Bezeichnung einer wirklichen Führung" traduzido imprecisamente como 'designação de uma direção real' (melhor: 'qualificação de verdadeira liderança'), "höher zu ragen scheint" como 'sobressair mais alto' é literal demais (melhor: 'parece sobressair')
+
+Página 37:
+  Status: completed
+  Score: 92.0
+  Erros: Data corrigida de 'i453' para '1453' no OCR, mas texto está truncado em ambos os originais e na tradução., 'Streben ins Unendliche' traduzido como 'ímpeto [...] em direção ao Infinito', mas 'faustische Streben' pede minúscula em 'streben' no alemão corrigido., 'Anlaß' com ß preservado corretamente, traduzido bem como 'motivo mais profundo'.
+
+Página 38:
+  Status: completed
+  Score: 55.0
+  Erros: Título traduzido corretamente, mas com erro tipográfico: 'OS GUERRAS' em vez de 'AS GUERRAS', Corpo do texto não traduzido: mantido em alemão sem correção do erro OCR 'fes' (deve ser 'fes' corrigido para 'fes' ou contexto sugere 'führt' ou similar), OCR não foi adequadamente corrigido no texto apresentado
+
+Página 39:
+  Status: completed
+  Score: 82.0
+  Erros: Erro grave: 'Der folgenreichste Ausdruck' traduzido como 'O mais consequente expressão' (falta artigo 'o' e 'consequente' não capta 'folgenreichste' = 'de maior consequências'), 'im tiefsten Grunde' como 'no fundo mais profundo' é redundante e pouco idiomático, 'Massenheere auf Grund der allgemeinen Wehrpflicht' simplificado para 'exércitos de massas sobre a base do serviço militar obrigatório geral' (perde precisão)
+
+Página 40:
+  Status: completed
+  Score: 95.0
+  Erros: Pequena imprecisão em 'Sittlich taugt ... soviel wie' traduzido como 'Moralmente ... vale tanto quanto', que poderia ser mais literal como 'Do ponto de vista moral'., Corte abrupto no final preservado, mas sem indicação clara de continuação.
+
+Página 41:
+  Status: completed
+  Score: 88.0
+  Erros: Título: 'OS GUERRAS MUNDIAIS' deve ser 'AS GUERRAS MUNDIAIS' (artigo correto)., Frase inicial: 'Eles têm, desde 1870, também impedido a guerra' soa pouco natural; melhor 'Desde 1870, eles também impediram a guerra'., 'impedido a guerra' deveria ser 'impedido a guerra' com artigo definido correto em contexto.
+
+Página 42:
+  Status: completed
+  Score: 35.0
+  Erros: A maior parte do texto original alemão não foi traduzida para o português - a tradução é basicamente uma cópia do texto alemão corrigido com mínimas alterações, Falta total de tradução da primeira frase ('gann mitzuregieren...') e do restante do parágrafo, Uso inadequado de 'wurde' em vez de 'wird' na tradução parcial, alterando o tempo verbal
+
+Página 43:
+  Status: completed
+  Score: 25.0
+  Erros: Nenhuma tradução para o português foi realizada; o texto fornecido é apenas o alemão corrigido com título mantido, Correção de OCR incompleta: 'flisch e Flotte' não foi corrigido (provavelmente 'britisch e Flotte'), Texto truncado sem tradução do conteúdo principal
+
+Página 44:
+  Status: completed
+  Score: 82.0
+  Erros: Tradução adiciona 'sucumbiram repetidamente, em desespero impotente' que não está no original (invenção/inferência excessiva), 'na deserto sírio-árabe' faltando artigo 'o', 'acaba de ser novamente descoberto' altera sujeito (é passivo no original)
+
+Página 45:
+  Status: completed
+  Score: 92.0
+  Erros: Adição indevida de 'desde Mário e ...' não presente no original, 'Culturas' maiúsculo inadequado em português, 'decomposição moral' menos idiomático que 'dissolução' ou 'desagregação moral'
+
+Página 46:
+  Status: completed
+  Score: 82.0
+  Erros: OCR corrigido bem, mas 'tärisches' → 'militärisches' e 'yon' → 'von' poderiam ser mais evidentes, Frase inicial desconectada: falta sujeito claro para 'médio militar concebido', 'guerra econômi...' incompleta e gramaticalmente errada (deve ser 'o planejamento econômico' ou similar)
+
+Página 47:
+  Status: completed
+  Score: 35.0
+  Erros: A tradução não foi realizada: o texto em português é quase idêntico ao alemão corrigido, com apenas uma pequena adição no final ('die stärker gerüstete Macht wird di...'), Falta completa de tradução para o português, violando o propósito da tarefa, OCR foi bem corrigido ('reiten' → 'retten', 'geröstete' mantido como incompleto mas correto no contexto), mas isso não compensa a ausência de tradução
+
+Página 48:
+  Status: completed
+  Score: 82.0
+  Erros: OCR corrigido bem, mas 'mimdi' para 'mundo' é uma correção inadequada; deveria ser 'mundi', "forma sem forma" é tradução literal e imprecisa de 'Formlosigkeit'; melhor 'informidade' ou 'ausência de forma', "configurações fugidias" é estranho; 'Gestaltungen flüchtig' sugere 'formações fugazes' ou 'configurações efêmeras'
+
+Página 49:
+  Status: completed
+  Score: 82.0
+  Erros: Título incorreto: 'OS GUERRAS MUNDIAIS' deve ser 'AS GUERRAS MUNDIAIS' (artigo definido plural), Estrutura da frase não preserva a complexidade original alemã; tradução fragmentada e simplificada, 'Bücherschreibern' traduzido como 'escribas de livros' é literal mas pouco idiomático; melhor 'escritores de livros' ou 'autores de livros'
+
+Página 50:
+  Status: completed
+  Score: 88.0
+  Erros: Erro na tradução de 'machtpolitischen Zweckmäßigkeit': 'conveniência poder-política' é impreciso; deveria ser 'conveniência político-militar' ou 'utilidade político-poderosa'., 'Konzerne' mantido em alemão sem tradução ou itálico; sugerir 'concerns' ou 'conglomerados'., 'Aufsichtsräte' traduzido como 'conselhos de supervisão'; mais preciso é 'conselhos de administração' ou 'conselhos de fiscalização'.
+
+Página 51:
+  Status: completed
+  Score: 82.0
+  Erros: Título: 'OS GUERRAS MUNDIAIS' deve ser 'AS GUERRAS MUNDIAIS' (artigo incorreto)., 'PODERES MUNDIAIS' é literal, mas 'POTÊNCIAS MUNDIAIS' seria mais idiomático para 'Wel tmächte'., 'atingível' deveria ser 'inabordável' ou 'inattackável' no contexto militar; 'inatingível' soa como 'inalcançável'.
+
+Página 52:
+  Status: completed
+  Score: 88.0
+  Erros: OCR corrigido perfeitamente (nachdem sem hífen)., "Flüchtige Beobachter" melhor como "observadores superficiais" ou "passageiros", mas aceitável., "sich ein paar Wochen lang umgesehen hatten" traduzido como "terem se orientado", que suaviza o sentido literal de "terem olhado ao redor".
+
+Página 53:
+  Status: completed
+  Score: 72.0
+  Erros: Título incorreto: 'OS GUERRAS MUNDIAIS' deve ser 'AS GUERRAS MUNDIAIS', 'PODERES MUNDIAIS' deveria ser 'POTÊNCIAS MUNDIAIS' para melhor adequação filosófica, 'plebe' é inadequado para 'Mob'; 'massa' ou 'ralé' seriam mais precisos
+
+Página 54:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução de 'Mac...' como 'ao poder, mas traduzida do...' é especulativa e imprecisa; original sugere 'Macht' (poder), 'Slaats-soziaiismus' corrigido corretamente para 'Staatssozialismus', mas tradução usa 'socialismo estatal' em vez da forma composta padrão 'socialismo de Estado', Falta de hífen em 'Nova Iorque' no original corrigido não impacta, mas tradução mantém fidelidade
+
+Página 55:
+  Status: completed
+  Score: 88.0
+  Erros: Termo 'vorderasiáticos' mantido sem tradução/adaptação adequada (deveria ser 'asiáticos ocidentais' ou 'do Oriente Médio'), Tradução de 'Typus innerlich überhaupt nicht an?' é ambígua e pouco natural ('Tipo interiormente de modo algum?' não transmite o sentido interrogativo claro), 'Tchecos' deveria ser 'tchecos' (minúscula em adjetivos gentílicos); preferível 'checos'
+
+Página 56:
+  Status: completed
+  Score: 82.0
+  Erros: Título: 'OS GUERRAS MUNDIAIS' deve ser 'AS GUERRAS MUNDIAIS' (artigo incorreto)., 'onde quer que as encontrassem' inverte sujeito-objeto; original refere-se a navios ingleses queimando/afundando inimigos., 'não ousava a guerra' é pouco idiomático; melhor 'não ousava entrar em guerra' ou 'não se atrevia a declarar guerra'.
+
+Página 57:
+  Status: completed
+  Score: 82.0
+  Erros: Ordem invertida na frase 'tornado exausto na sujeira, avareza e estupidez' altera o sentido original, 'Volkstum' traduzido literalmente como 'Volkstum' em vez de 'espírito popular' ou 'genius do povo', 'amour' mantido em francês sem itálico ou aspas consistentes
+
+Página 58:
+  Status: completed
+  Score: 82.0
+  Erros: Tradução inicial imprecisa: 'auf der gleichen Stufe zugetragen' não é 'ocorrido no mesmo estágio', mas refere-se a eventos 'acontecidos no mesmo nível/estágio', exigindo contexto anterior., 'Tib. und G. Gracchus' traduzido como 'Tibério e Caio Graco' (correto historicamente, mas Gracchus é geralmente 'Graco' em PT; Tibério é padrão)., 'Ackergesetz' mantido como 'Acker-Gesetz' (hífen desnecessário; melhor 'lei agrária').
+
+Página 59:
+  Status: completed
+  Score: 92.0
+  Erros: OCR: 'Tat-sache' corrigido corretamente para 'Tatsache', mas hífen residual não impactou., 'Bürgertum' mantido em alemão na tradução; deveria ser traduzido ou italicizado consistentemente., 'ditadura de cima' é tradução literal aceitável, mas 'ditadura de cima' soa menos idiomática que 'ditadura imposta de cima'.
+
+Página 60:
+  Status: completed
+  Score: 92.0
+  Erros: OCR já estava correto, sem erros aparentes a corrigir, 'no fundo mais profundo' é redundante; 'im tiefsten Grunde' é 'no fundo mais profundo', mas soa estranho em PT, 'um longo tempo' soa pouco natural; melhor 'um longo período'
+
+Página 61:
+  Status: completed
+  Score: 72.0
+  Erros: Tradução inicia com texto alemão não traduzido: 'Kulturen sich zu bilden beginnt.¹', 'Nesta mundo' deve ser 'Neste mundo' (artigo definido incorreto), 'Volkstum' traduzido literalmente como 'Volkstum desarraigado'; melhor 'povoado' ou 'espírito popular'
+
+Página 62:
+  Status: completed
+  Score: 82.0
+  Erros: Título traduzido incorretamente: 'DIE WEISSE WELTREVOLUTION' é 'A Revolução Mundial Branca', não 'A Revolução Mundial Branca' (tradução literal ok, mas contexto sugere 'Revolução do Mundo Branco'), "Rangordnungen" traduzido como 'hierarquias de rangos' é redundante e pouco natural; deveria ser 'ordens de patente' ou 'hierarquias' simplesmente, "Wirtschaftsklassen" como 'classes econômicas' é aceitável mas 'classes econômicas' é mais preciso que 'classes econômicas'
+
+Página 63:
+  Status: completed
+  Score: 82.0
+  Erros: Título traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' é impreciso; 'Weiße Weltrevolution' refere-se a 'Revolução Mundial Branca' em contexto racial/nacionalista, mas soa estranho em PT; melhor 'A Revolução Branca Mundial'., Frase inicial fragmentada e com erro: 'A forma da vida não é mais autoevidente' ignora 'Form des Lebens nicht mehr selbstverständlich ist'; falta sujeito claro e estrutura condicional., 'se lhe concede ouvidos à crítica' é literal demais e pouco idiomático; 'verstauet' corrigido para 'verstattet', mas tradução não reflete 'concede ouvidos/meramente dá atenção'.
+
+Página 64:
+  Status: completed
+  Score: 88.0
+  Erros: Tradução incompleta: texto alemão continua após 'widersprechen aller ...' mas PT para abruptamente em 'contradizem toda democracia', Adição não fiel: 'toda democracia' não está no original (provável conjectura de '...aller Demokratie'), Ordem alterada: 'die Erziehung und Selbstzucht verrät' deslocado no PT, perdendo conexão sintática com os elementos anteriores
+
+Página 65:
+  Status: completed
+  Score: 72.0
+  Erros: OCR: 'tine' corrigido para 'ging', mas frase inicial ainda incompleta sem sujeito explícito (provavelmente 'Eine Zeit' ou similar ausente), Tradução: 'foi das ideais' é gramaticalmente incorreto e sem sujeito; deveria ser 'vai das ideais' ou reconstruir frase completa, Precisão: 'foi das ideais' não corresponde a 'ging zu den Idealen'; falta verbo e estrutura temporal correta
+
+Página 66:
+  Status: completed
+  Score: 92.0
+  Erros: Uso de maiúscula em 'Cultura' e 'A posse' sem justificativa (no original apenas substantivos próprios têm maiúscula), Estrutura da frase inicial pouco fluida: 'A uma alta Cultura pertence enfim ainda algo, e isso com necessidade', 'pressuposição' deveria ser 'pressuposto' no contexto filosófico
+
+Página 67:
+  Status: completed
+  Score: 72.0
+  Erros: Correção de OCR incompleta: frase inicial ainda fragmentada ('mehr nach Grundbesitz...' sem sujeito explícito, provavelmente 'Aufsteigende' ou similar), Tradução imprecisa de 'Grundbesitz als der Urform des unbeweglichen Gutes': 'mais pelo imóvel do que pela Urform do bem imóvel' inverte sentido e é confusa, 'sinkende' traduzido como 'declinantes' é literal mas pouco natural; contexto sugere 'classes declinantes' ou 'em declínio'
+
+Página 68:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução incompleta no final ('que a eles mesmos faltam por comple...') não corresponde ao texto corrigido completo, 'Reichtum' capitalizado indevidamente na tradução, 'Cultura' capitalizado indevidamente (não é substantivo próprio)
+
+Página 69:
+  Status: completed
+  Score: 82.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' – 'Weiße' pode ser 'branca' ou 'pura', contexto ideológico incerto, Falta artigo 'o' antes de 'inveja': 'o inveja', Frase 'Não o fato em si, mas um certo pensar sobre ela, a sensação de diferenças como oposições, o inveja é que o torna tal' é gramaticalmente incorreta e pouco fiel ao original
+
+Página 70:
+  Status: completed
+  Score: 92.0
+  Erros: OCR: 'Guter' corrigido para 'Güter' (correto), mas texto truncado preserva incompletude original., Tradução: 'porta-vozes autoproclamados' é interpretação válida, mas 'Wortführern' pode ser mais diretamente 'líderes da palavra' ou 'oradores'., Estrutura: Frase longa complexa bem preservada, mas 'dos quais se originou, por meio de...' ligeiramente reestruturada para fluência.
+
+Página 71:
+  Status: completed
+  Score: 72.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' é literal demais; 'Weltrevolution' em contexto filosófico pode significar 'revolução mundial', mas 'Weisse' sugere ironia ou metáfora não capturada., Frase inicial 'Im Gegensatz, der mehr agitatorisch behauptet als ehrlich geglaubt wurde' traduzida de forma incompleta e imprecisa como 'Em contraste, que mais se agitava do que se acreditava honestamente', perdendo sujeito e estrutura relativa., 'Nationalökonomie' como 'economia nacional' é aceitável mas pouco comum em PT; 'economia política' seria mais preciso historicamente.
+
+Página 72:
+  Status: completed
+  Score: 82.0
+  Erros: Frase inicial truncada e com estrutura confusa: 'era já fora dela, em consequência da ditção espirituosa, ininteligível' não reproduz corretamente o sentido de 'war außerhalb derselben schon infolge der geistreichen Diktion unverständlich', Falta de conectores e fluidez: 'inteiramente à parte do fato de que ler e escrever nem mesmo nas camadas médias estavam de modo algum geralmente difundidos' é pouco natural e invertido, Estrutura sintática excessivamente literal, perdendo a complexidade subordinada alemã
+
+Página 73:
+  Status: completed
+  Score: 72.0
+  Erros: OCR: 'WELT REVOLUTION' corrigido para 'WELTREVOLUTION' (boa correção, mas título poderia ser 'Die weiße Weltrevolution')., Tradução imprecisa: 'Designação dos reis como tiranos adotada' omite sujeito implícito e soa estranho., Fluência ruim: 'é essa a forma de preparação de revoluções permanecida' é gramaticalmente incorreta e não natural.
+
+Página 74:
+  Status: completed
+  Score: 88.0
+  Erros: Primeira palavra 'theder' corrigida como 'teóricos', mas deveria ser 'Lehrer' (professores/docentes) no contexto filosófico-histórico, Adição indevida de 'do proletariado das grandes' no final, que não consta no texto alemão corrigido, 'Rechner und Schreiber' traduzido como 'calculistas e escribas' é literal mas pouco natural; contexto sugere 'contadores e escribas'
+
+Página 75:
+  Status: completed
+  Score: 92.0
+  Erros: "Lyon-Mailand" traduzido como "Lyon-Milão" (melhor manter como linha férrea Lyon-Milão ou esclarecer), "quadro de desejo" para "Wunschbild" é literal mas pouco idiomático; "imagem ideal" ou "ideal desejado" seria melhor, "enxames beduínos do não-fazer" é criativo mas perde a força pejorativa de "Beduinen-Schwärme des Nichtstuns"
+
+Página 76:
+  Status: completed
+  Score: 88.0
+  Erros: Falta o título 'DIE WEISSE WELTREVOLUTION' no texto original fornecido, mas incluído na tradução sem justificativa, 'keit' não foi explicitamente corrigido na tradução (deve ser parte de 'Revolutionskeits' ou similar), 'surto' é aceitável mas menos preciso que 'surto' ou 'explosão' para 'Ausbruch'
+
+Página 77:
+  Status: completed
+  Score: 82.0
+  Erros: Frase inicial fragmentada e pouco clara: 'do século XVIII cada vez mais em círculos liberais...' não reproduz bem a estrutura original., 'Do um lado' é erro tipográfico para 'De um lado'., 'Círculo de Cipião' deveria ser 'Círculo de Cipião' ou 'Círculo Escipionita' para maior precisão histórica.
+
+Página 78:
+  Status: completed
+  Score: 92.0
+  Erros: Falta o sujeito inicial 'scheue' (provavelmente 'der Schuft'), que foi omitido na tradução, 'de baixo' soa coloquial demais; melhor 'de baixo para cima' ou 'do ponto de vista inferior', 'cultos e semicultos' é inadequado para 'Gebildeten und Halbgebildeten'; prefira 'eruditos e semieruditos' ou 'cultivados e semicultivados'
+
+Página 79:
+  Status: completed
+  Score: 82.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' (melhor: 'A REVOLUÇÃO MUNDIAL BRANCA' ou 'A GRANDE REVOLUÇÃO BRANCA'), 'geschäftstüchtigen' traduzido como 'empreendedores' (melhor: 'negocistas', 'espertos nos negócios' ou 'astutos'), 'schmarotzen von dieser Legende' como 'parasitam dessa lenda' (aceitável, mas 'vivem às custas dessa lenda' seria mais idiomático)
+
+Página 80:
+  Status: completed
+  Score: 72.0
+  Erros: Frase inicial 'Fabrik gearbeitet hätte.' não traduzida, mantida em alemão, "capitalismo" sem aspas de fechamento no original corrigido, mas erro na tradução (falta 'o'), "médio-estado" inadequado para 'Mittelstandes' (deve ser 'classe média' ou 'burguesia média')
+
+Página 81:
+  Status: completed
+  Score: 88.0
+  Erros: OCR: 'Abbes' corrigido para 'Abbés' (correto), mas 'Fouche' para 'Fouché' com acento necessário; 'beide' para 'Beide' maiúscula adequada., Tradução adiciona 'traidores da pátria' inexistente no original cortado ('Land...' provavelmente 'Landverräter')., Adição de 'Desde 1815, o sacerdote cristão tor...' é extrapolação sem base no texto fornecido.
+
+Página 82:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução adiciona frase final ('Para impor o ideal, precisa-se ...') ausente no original., 'Vernunftschlüssen' melhor como 'conclusões da razão' do que 'conclusões racionais'., 'Mangel an Blick' como 'falta de visão' é aceitável, mas 'falta de perspicácia' seria mais preciso.
+
+Página 83:
+  Status: completed
+  Score: 92.0
+  Erros: Título 'A REVOLUÇÃO MUNDIAL BRANCA' é literal, mas pouco idiomático; 'A Revolução Branca Mundial' ou 'A Revolução Mundial dos Brancos' seria mais natural., Frase inicial longa e complexa do alemão foi bem preservada, mas poderia ser ligeiramente mais fluida sem perder fidelidade., 'Caixa de eleições' para 'Wahlkasse' é aceitável, mas 'caixa eleitoral' ou 'caixa de campanha' seria mais preciso no contexto partidário.
+
+Página 84:
+  Status: completed
+  Score: 88.0
+  Erros: Inversão imprecisa em 'dessen das berühmte Nadelöhr' → 'cujo famoso buraco da agulha' (deve ser relativo ao contexto anterior)., 'manches Kamel' (algum camelo) traduzido como 'muitos camelos', invertendo ironia bíblica., 'erpreßt' (extorque) correto, mas contexto de coerção trabalhista poderia ser mais matizado.
+
+Página 85:
+  Status: completed
+  Score: 62.0
+  Erros: OCR corrigido bem, mas frase inicial ainda fragmentada ('sie' não contextualizada), Tradução inexata: 'Marx gegenüber vornehm und konservativ denkende Sozialisten' vira 'nobres e conservadoramente pensadores socialistas' – ordem e sintaxe erradas; deveria ser 'socialistas que pensam de modo nobre e conservador em comparação a Marx', Fluência baixa: frases desconexas e não naturais em PT ('ela para mobilizar em seu ódio', 'nobres e conservadoramente pensadores socialistas')
+
+Página 86:
+  Status: completed
+  Score: 88.0
+  Erros: "teorias de melhoria do mundo" é literal demais; melhor 'teorias de aperfeiçoamento do mundo' ou 'teorias utópicas de reforma mundial'., "exercer violência sobre o Destino e os instintos" distorce 'Gewalt zu haben über', que significa 'exercer domínio/poder sobre', não necessariamente 'violência'., "entendimento humano" para 'Verstandes' é aceitável, mas 'entendimento' ou 'razão' poderia ser mais preciso em contexto filosófico.
+
+Página 87:
+  Status: completed
+  Score: 78.0
+  Erros: Tradução incompleta e imprecisa no final: 'ou que se achava em uma cujas exigências éticas não era capaz...' não corresponde ao original corrigido, Falta de artigo definido: 'o liberal como do bolchevique luta de classes' deveria ser 'do liberal e do bolchevique', Estrutura fraturada na primeira frase: 'os quais... desejavam destruir... vê-las como escravos sob si' perde a conexão lógica do original
+
+Página 88:
+  Status: completed
+  Score: 72.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido incorretamente como 'A REVOLUÇÃO MUNDIAL BRANCA' (possivelmente 'A Revolução Branca Mundial' ou contexto específico não captado), Erro grave: 'schmack' corrigido para 'schmackhaft', mas traduzido como 'saboreando' sem sujeito explícito, perdendo fluidez, 'an dessen Anblick man sich weidet' traduzido como 'cujo espetáculo deleita-se em contemplar' – construção gramatical invertida e pouco natural
+
+Página 89:
+  Status: completed
+  Score: 62.0
+  Erros: OCR corrigido bem, mas 'biä' para 'bis' e 'Wis- senschaft 4' para 'Wissenschaft' poderiam ser mais evidentes na comparação., Tradução mantém 'Wirtschaftsleben' em alemão em vez de traduzir para 'vida econômica'., 'Economia nacional' para 'Nationalökonomie' é aceitável mas pouco comum; 'economia política' seria melhor.
+
+Página 90:
+  Status: completed
+  Score: 72.0
+  Erros: OCR não corrigiu 'chesterlehre Gobdens' para 'Manchesterlehre Cobdens', Título 'DIE WEISSE WELTREVOLUTION' traduzido incorretamente como 'REVOLUÇÃO MUNDIAL BRANCA' (deve ser 'REVOLUÇÃO BRANCA MUNDIAL' ou contexto específico), 'um 1840 und in England entstanden' traduzido como 'surgidos por volta de 1840 e na Inglaterra' - estrutura original invertida
+
+Página 91:
+  Status: completed
+  Score: 82.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' – 'Weiße' refere-se provavelmente a 'Branca' no sentido ideológico (revolução branca/conservadora), mas poderia ser mantido como 'Revolução Branca Mundial' para fidelidade, 'no objetivo' é tradução literal e pouco natural para 'am Ziel'; deveria ser 'no fim' ou 'em seu objetivo', 'perante os outros' omite 'vor andern' que significa 'diante dos outros'; melhor 'diante dos outros'
+
+Página 92:
+  Status: completed
+  Score: 92.0
+  Erros: Correção de OCR excelente, mas 'Siebehandeln' → 'Sie behandeln' poderia ser mais explícito, 'Logrou-se' é correto mas pouco natural; 'Conseguiu-se' seria mais idiomático, 'pretensioso' para 'anspruchvollsten' é aceitável mas 'exigente' ou 'pretensioso' poderia ser 'presunçoso'
+
+Página 93:
+  Status: completed
+  Score: 82.0
+  Erros: Tradução de 'DIE WEISSE WELTREVOLUTION' como 'A REVOLUÇÃO MUNDIAL BRANCA' é literal mas pouco idiomática; 'A Revolução Mundial Branca' soa mais natural., 'jazem muito mais profundamente do que se pensa' adiciona 'mais' desnecessário; original é 'viel tiefer als man denkt'., 'seus efeitos só se manifestam' não captura precisamente 'ihre Wirkungen sind nur in langen und harten Kämpfen [...]'; faltou a ideia de que as efeitos exigem tais lutas.
+
+Página 94:
+  Status: completed
+  Score: 82.0
+  Erros: OCR: 'Löhnung' corrigido corretamente para 'Lohnung', mas texto cortado idêntico ao original., Tradução: 'Lohnung der Söldner' como 'remuneração dos mercenários' é literal mas perde conotação metafórica forte de 'pagamento de soldados de aluguel'., Precisão: 'nicht sachlichen' traduzido como 'não especializado' é incorreto; deveria ser 'não objetivo' ou 'não pertinente'.
+
+Página 95:
+  Status: completed
+  Score: 88.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' é literal mas pouco idiomático; 'branca' pode confundir (raça vs. 'weiße' como clara/pura), Frase inicial da tradução ('que séculos construíram') é gramaticalmente incompleta e não reproduz a estrutura elíptica do original alemão, perdendo o sujeito implícito, Falta de conectores como 'sobald... hatten' ('assim que ... compreenderam') poderia ser mais preciso com 'logo que' ou 'quando'
+
+Página 96:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução de 'betrug' como 'durava' é aceitável mas poderia ser mais precisa com 'tinha duração de' ou 'estendia-se', Falta de tradução completa do final ('Kn...') no alemão corrigido, mas tradução acompanha adequadamente, Estrutura de frases longas alemãs simplificada em PT, perdendo alguma complexidade subordinada
+
+Página 97:
+  Status: completed
+  Score: 72.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' é impreciso; 'Weiße Weltrevolution' pode ser termo específico não literal, Frase inicial fragmentada e com ordem invertida, perdendo sentido lógico do alemão, Tradução truncada e incompleta ('Mas pela atividade dos sindicato...' não corresponde ao original)
+
+Página 98:
+  Status: completed
+  Score: 82.0
+  Erros: OCR bem corrigido, mas texto truncado no final, "Mehrwert" mantido em alemão (não traduzido para 'mais-valia'), Erro gramatical: 'uma trabalho intelectual' (deve ser 'um trabalho')
+
+Página 99:
+  Status: completed
+  Score: 82.0
+  Erros: Correção OCR excelente, mas texto alemão ainda inicia abruptamente sem contexto da frase anterior, Tradução omite 'parlamentarischen, revolutionären Macht' de forma inadequada, perdendo referência ao poder parlamentar-revolucionário, 'Gewerkschaften' traduzido como 'associações sindicais' (aceitável), mas 'Gewerkschaften' é mais precisamente 'sindicatos'
+
+Página 100:
+  Status: completed
+  Score: 25.0
+  Erros: A tradução não foi realizada: o texto em português é quase idêntico ao alemão corrigido, com apenas uma alteração mínima ('Kaufleuten' para 'Käufern'), Falta completa de tradução para o português, violando o objetivo principal, OCR corrigido foi bem feito (ex: 'Kauf leuten' → 'Käufl euten'), mas não aproveitado na tradução
+
+Página 101:
+  Status: completed
+  Score: 88.0
+  Erros: Tradução de 'Gestaltungskraft' como 'força de gestaltung' mantém termo alemão sem naturalizar para 'força de formação' ou 'capacidade formativa'., 'Durchgeistigtes' traduzido como 'espirituada' é literal mas pouco idiomático; melhor 'espiritualizada' ou 'imbuída de espírito'., 'Maßgebendem und untergeordnetem Tun' simplificado para 'agir determinante e o subordinado', perdendo plural 'maßgebenden' e precisão.
+
+Página 102:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução de 'gewachsen sind' como 'são iguais' é aceitável mas perde nuance idiomática de 'crescer à altura'; 'adequados' ou 'à altura' seria melhor., 'A um como ao outro se é destinado' é gramaticalmente estranho em PT; soa pouco natural., 'pela igualação racionalista nem pela sentimental-romântica' omite 'Gleichmacherei' (forçação de igualdade), enfraquecendo o termo pejorativo.
+
+Página 103:
+  Status: completed
+  Score: 92.0
+  Erros: Correção OCR: 'arbeitersmit' corrigido para 'Arbeiters', mas frase inicial ainda fragmentada sem contexto anterior, Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' – 'Weiße' pode implicar 'branca' (racial) ou 'ocidental'; contexto sugere 'branca' como correta, Tradução inicia com 'dos trabalhadores' em minúscula, sugerindo continuação; coerente com fragmento
+
+Página 104:
+  Status: completed
+  Score: 0.0
+  Erros: Nenhuma tradução foi fornecida; o texto em português é idêntico ao alemão corrigido., Ausência completa de tradução para o português.
+
+Página 105:
+  Status: completed
+  Score: 72.0
+  Erros: Frase inicial truncada e sem sujeito claro ('a posição... se alterou') - perda de sentido gramatical do original., Título 'A REVOLUÇÃO MUNDIAL BRANCA' é literal mas pouco idiomático; 'Die weiße Weltrevolution' sugere contexto específico (ex: revolução 'branca')., 'despercebidamente' é arcaico e pouco natural; melhor 'despercebida'.
+
+Página 106:
+  Status: completed
+  Score: 72.0
+  Erros: Erro grave em 'Bauernschaft' traduzido como 'camponesa' (feminino singular) em vez de 'camponeses' ou 'classe camponesa' (coletivo)., 'camponesas-hostis' é literal e pouco idiomático; melhor 'anticamponesas' ou 'hostis aos camponeses'., 'ninguém perguntava por isso' é impreciso; original é 'ninguém perguntava por isso'.
+
+Página 107:
+  Status: completed
+  Score: 88.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' é literal mas pouco idiomático; 'Revolução Branca Mundial' ou 'A Revolução Mundial Branca' seria melhor., 'Weltrevolution' em contexto histórico pode se referir à 'Revolução Branca' (contra-revolução), exigindo nota explicativa., 'bäuerlichen Landes' como 'campo camponês' é impreciso; deveria ser 'campo camponês' ou 'território rural/camponês'.
+
+Página 108:
+  Status: completed
+  Score: 82.0
+  Erros: Omissão de 'aus' no original, alterando o sentido: 'do lado dos trabalhadores' deveria refletir 'da perspectiva dos trabalhadores'., 'Farbigen' traduzido como 'coloridos' é literal mas inadequado; 'não brancos' ou 'negros' seria mais idiomático., 'Luxuslöhnen' como 'salários de luxo' é correto mas soa estranho; 'salários luxuosos' ou 'altos salários' seria melhor.
+
+Página 109:
+  Status: completed
+  Score: 88.0
+  Erros: Título invertido: 'Die weiße Weltrevolution' é 'A Revolução Mundial Branca', não 'A Revolução Branca Mundial', 'Farbigen' traduzido como 'Coloridos' (arcaico/insensível; melhor 'não-brancos' ou 'povos de cor'), 'aus dem Felde' traduzido como 'derrota [...] em toda parte', perdendo a imagem idiomática 'fora do campo'
+
+Página 110:
+  Status: completed
+  Score: 92.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' – 'Weisse' refere-se provavelmente a 'branca' no sentido racial/ideológico, mas poderia ser contextualizado melhor, 'Arbeitersozialismus' como 'socialismo operário prático' é aceitável, mas 'socialismo dos trabalhadores prático' seria mais preciso, 'grob wirtschaftliche Tendenzen' traduzido como 'tendências [...] grosseiramente econômicas' – 'grob' significa 'grosseiro/primário', não necessariamente 'grosseiramente'
+
+Página 111:
+  Status: completed
+  Score: 82.0
+  Erros: OCR corrigido perfeitamente (Schwär-mern → Schwärmern), 'entusiastas' é tradução fraca para 'Schwärmern' (melhor: 'visionários' ou 'entusiastas delirantes'), 'realidades da realidade' é redundante e pouco natural
+
+Página 112:
+  Status: completed
+  Score: 88.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' – 'Weiße' pode significar 'branca' ou 'brilhante/pura'; contexto filosófico sugere possível interpretação alternativa, Verbo 'verwandelten' traduzido como 'transformaram' no plural, mas sujeito parece singular no contexto original (incompleto), 've.../verst...' corrigido como 'verst...', mas tradução usa 'e ...' (incompleto); fidelidade mantida
+
+Página 113:
+  Status: completed
+  Score: 72.0
+  Erros: Inversão completa da ordem da primeira frase na tradução, alterando o sentido: 'das das Wirtschaftsleben aus den Tiefen...' em vez de 'aus den Tiefen... das Wirtschaftsleben zerstört hat', Estrutura sintática alemã não preservada; frase complexa reduzida a forma simplificada e incorreta, 'sie' traduzido como 'as vê' (feminino plural), mas contexto sugere 'as forças/economia' – ambiguidade não resolvida
+
+Página 114:
+  Status: completed
+  Score: 88.0
+  Erros: Final incompleto e impreciso: 'vontade' da história' não corresponde ao 'Wille' (Vontade) do texto corrigido, adicionando 'da história, ó...' indevidamente, Estrutura fracionada com quebras de linha excessivas, perdendo a fluidez da frase complexa alemã, 'Estados Combatentes' é aceitável mas menos comum que 'Estados Guerreiros' ou 'Período dos Estados Combatentes'
+
+Página 115:
+  Status: completed
+  Score: 88.0
+  Erros: Erro de concordância: 'nenhuma "partido"' deve ser 'nenhum "partido"' (masculino)., "horda governante de tipo alta-asiático" soa pouco natural; melhor 'horda governante de caráter alta-asiático'., Expansão interpretativa no final: 'pelo envio a...' não está no original fornecido, que para em 'Entziehung der ...'.
+
+Página 116:
+  Status: completed
+  Score: 82.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' é impreciso; 'Weisse' pode ser título próprio ou referência específica, não literal 'branca', Pronome 'Sie'/'sie' traduzido como 'Elas' (feminino), mas contexto histórico jacobino é masculino; deveria ser 'Eles', Repetição 'in neue, in neue Kämpfe' mantida como 'a novos combates, a novos combates' sem explicação estilística
+
+Página 117:
+  Status: completed
+  Score: 82.0
+  Erros: Título não traduzido para o português, "Não se compreende mais hoje a ler" é gramaticalmente incorreto e pouco fluente; deveria ser "Não se sabe mais ler hoje", "lealdade vassala" é tradução literal inadequada de 'Gefolgsstreue'; melhor 'lealdade ao líder' ou 'fidelidade vassálica', mas soa estranho
+
+Página 118:
+  Status: completed
+  Score: 92.0
+  Erros: Tradução de 'Empfinden' como 'sentir' é aceitável, mas 'sensibilidade' ou 'disposição de espírito' capturaria melhor o tom filosófico prussiano., 'Arbeitersozialismus' traduzido como 'socialismo operário'; 'socialismo dos trabalhadores' seria mais idiomático em PT., 'Aktie' como 'ação' é correto, mas em contexto econômico poderia ser 'ação/acoes' para clareza.
+
+Página 119:
+  Status: completed
+  Score: 88.0
+  Erros: OCR corrigido quase perfeitamente, mas 'Seiten her' → 'Seitdem her' ainda impreciso (deve ser 'Seitdem'), Tradução de 'DIE WEISSE WELTREVOLUTION' como 'A REVOLUÇÃO MUNDIAL BRANCA' é literal mas perde nuance idiomática ('Branca' soa estranho em PT), 'der Bauer wie der Unternehmer' traduzido como 'o camponês como o empresário' – falta paralelo com 'Mächte' (forças), deveria ser 'forças do Estado, do Exército, da propriedade, do camponês como do empresário')
+
+Página 120:
+  Status: completed
+  Score: 82.0
+  Erros: O texto alemão não foi traduzido no início ('damit noch als Proletarier. Er hat mit der Zukunft nichts zu schaffen.' permanece em alemão), 'separado do fato de que' é tradução literal e incorreta para 'abgesehen davon, daß'; deve ser 'independentemente do fato de que' ou 'além do fato de que', 'sacia-se dela' é estranho; melhor 'cansa-se dela' ou 'tem-se a saciedade dela'
+
+Página 121:
+  Status: completed
+  Score: 82.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' é impreciso; deveria ser 'A REVOLUÇÃO BRANCA MUNDIAL' ou manter estrutura similar., Início abrupto com '— calar sobre isso' não corresponde ao contexto; falta referência clara ao sujeito (provavelmente 'figuras' ou 'heróis')., 'Schlachtendenker' traduzido como 'pensador de batalhas' é literal demais; melhor 'estrategista militar' ou 'gênio tático'.
+
+Página 122:
+  Status: completed
+  Score: 88.0
+  Erros: Título 'DIE WEISSE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL BRANCA' é impreciso; 'Weiße' refere-se a 'espiritual/pura', não 'branca' racial, Falta citação inicial do título ('heit') no início da tradução, rompendo contexto, 'Verhängnis' traduzido como 'Destino' (positivo); deveria ser 'fatalidade' ou 'praga'
+
+Página 123:
+  Status: completed
+  Score: 92.0
+  Erros: Título 'DIE FARBIGE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL COLORIDA' é literal mas perde nuance idiomática; 'farbige' pode implicar 'colorida' no sentido de multicultural ou pitoresca, Frase inicial 'Wirtschaft und Diplomatie eingeweiht' traduzida como 'Iniciada na economia e na diplomacia' é correta mas poderia ser mais precisa como 'Introduzida na economia e diplomacia', 'v. Chr.' traduzido como 'a.C.' correto, mas 'drittes Jahrhundert v. Chr.' deveria ser 'século III a.C.' para maior precisão histórica
+
+Página 124:
+  Status: completed
+  Score: 82.0
+  Erros: Tradução inicia com 'Einzelnen.' (alemão) em vez de traduzi-lo ou omiti-lo adequadamente; parece erro de cópia., 'Aníbal' em vez de 'Hannibal' (ortografia portuguesa padrão é 'Aníbal', mas inconsistente com correção alemã)., 'gente das tribos selvagens' soa estranho; deveria ser 'das tribos selvagens'.
+
+Página 125:
+  Status: completed
+  Score: 82.0
+  Erros: OCR: 'Ausländsdeutschen' corrigido para 'Auslandsdeutschen' (aceitável, mas 'Auslandsdeutsche' é forma padrão); '1 8.' para '18.' correto., Tradução: 'meter o bedelho' é idiomático mas coloquial demais para tom filosófico; 'coloridos' inadequado (melhor 'não-brancos' ou 'povos de cor'); 'republicanos' impreciso para contexto histórico (melhor 'colonos' ou manter 'republicanos' com nuance); adição injustificada 'de que modo os jacobinos ...' não presente no original., Terminologia: 'Farbigen' traduzido como 'coloridos' é datado e pejorativo; 'liberala Revolution' como 'revolução liberal' ok, mas contexto é Revolução Americana.
+
+Página 126:
+  Status: completed
+  Score: 92.0
+  Erros: OCR: 'aussehließt' corrigido corretamente para 'ausschließt', mas 'da 3' para 'das' é uma correção assumida sem evidência clara no OCR, 'servidão da gleba' é impreciso para 'Leibeigenschaft' (servidão pessoal, não necessariamente da gleba), 'pode-se fazê-lo' é ligeiramente awkward; melhor 'pode-se fazer isso'
+
+Página 127:
+  Status: completed
+  Score: 82.0
+  Erros: Título traduzido como 'REVOLUÇÃO MUNDIAL COLORIDA' em vez de 'REVOLUÇÃO MUNDIAL COLORIDA' (falta 'Welt-'), Frase inicial desconectada: 'contra a América Latina teria sido aniquilada' sem contexto anterior, 'revolução colorida, racial' não reproduz adequadamente 'farbigen, rassemäßigen Revolution'
+
+Página 128:
+  Status: completed
+  Score: 92.0
+  Erros: "REVOLUÇÃO MUNDIAL COLORIDA" é literal mas perde o tom idiomático de "Farbige Weltrevolution" (revolução dos povos de cor); melhor "Revolução Mundial dos Povos de Cor", "em toda a inocência" soa redundante; "in aller Unschuld" é "com toda a inocência", "sua doutrina da igualdade de todos os homens" usa "homens" genérico, mas moderno prefere "seres humanos"
+
+Página 129:
+  Status: completed
+  Score: 88.0
+  Erros: OCR corrigido perfeitamente, sem vestígios de erros., Estrutura sintática simplificada demais: 'tem mudado de muitos senhores' perde a ênfase de 'sehr viele Herren gewechselt'; 'nunca mais foi capaz de autogoverno, mas repetidas vezes de um levante vitorioso' é abrupto e pouco fluido., 'logra êxito' é correto mas arcaico; 'potências brancas' para 'weißen Mächte' poderia ser 'poderes brancos'.
+
+Página 130:
+  Status: completed
+  Score: 88.0
+  Erros: Tradução incompleta: 'schlagen di...' não foi totalmente traduzido, 'Cultura' e 'Forma' maiúsculos desnecessários em português, 'realização interior' é aceitável mas 'Vollendung' sugere melhor 'perfeição' ou 'plenitude interior'
+
+Página 131:
+  Status: completed
+  Score: 92.0
+  Erros: Título 'DIE FARBIGE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL COLORIDA' inverte o sentido; 'farbige' refere-se a 'povos de cor', não 'colorida' no sentido de pintada., Falta 'Das ist ...' no final da tradução, embora OCR também corte., 'Frederico, o Grande' omite 'Friedrichs des Großen' completo.
+
+Página 132:
+  Status: completed
+  Score: 72.0
+  Erros: OCR ainda não totalmente corrigido: 'bürten Überschuß' permanece incorreto (deve ser 'bürtem Überschuß' ou 'bürtiger Überschuß'), Tradução inexata: 'bürtem Überschuß de menos de meio milhão' não corresponde ao sentido de 'excedente de nascimentos', 'enraizado ianqueísmo' é literal demais; 'Yankeetum' refere-se à cultura yankee/anglo-saxã dos EUA
+
+Página 133:
+  Status: completed
+  Score: 72.0
+  Erros: Título 'DIE FARBIGE WELTREVOLUTION' traduzido como 'A REVOLUÇÃO MUNDIAL COLORIDA' é impreciso; 'farbige' refere-se a 'colorida' no sentido racial, não 'mundial', Frase inicial 'die Generationen wälzt' mal traduzida como 'as gerações revolta', perdendo sujeito e sentido; deveria ser algo como 'que revolta as gerações', 'des eigenen Lebens' traduzido como 'do próprio viver' é estranho; melhor 'da própria vida'
+
+Página 134:
+  Status: completed
+  Score: 88.0
+  Erros: Tradução de 'Farbige Weltrevolution' como 'Revolução Mundial Colorida' é literal demais; 'Revolução do Terceiro Mundo' ou 'Revolução dos Povos de Cor' seria mais idiomática e contextual., 'Die Farbigen' como 'Os Coloridos' soa estranho e eufemístico em PT; 'os não-brancos', 'os colored' ou 'os povos de cor' seria melhor., 'dessen Länge sein einziger Wert ist' traduzido como 'cuja única grandeza é a sua duração' altera o sentido: 'Länge' é 'duração/comprimento', não 'grandeza' (que sugere 'Größe').
+
+Página 135:
+  Status: completed
+  Score: 88.0
+  Erros: Mudança de 'sie' (neutro) para 'nós os' e 'eles', alterando possivelmente o referente (povo?); deve ser 'elas' ou contexto claro., 'por si mesmos' impreciso para 'für sich täten'; melhor 'por si próprias' ou 'em benefício próprio'., 'pré-forma' pouco idiomático para 'Vorform'; prefira 'forma preliminar' ou 'pré-figuração'.
